@@ -1,6 +1,6 @@
 # 💰 Salary Predictor (TND)
 
-A sleek, AI-powered salary prediction application built with **React** and **Python Flask**. The app estimates software engineering salaries in **Tunisian Dinar (TND)** based on experience, skills, location, and professional level.
+A sleek, AI-powered salary prediction application built with **React** and **Python Flask**. The app estimates  salaries in **Tunisian Dinar (TND)** based on experience, skills, location, and professional level.
 
 ![Salary Predictor Screenshot](https://github.com/user-attachments/assets/4d42fff5-ef30-461d-abbe-a30f05dd1bc6)
 
@@ -33,10 +33,4 @@ A sleek, AI-powered salary prediction application built with **React** and **Pyt
 - Node.js (v16+)
 - Python (v3.8+)
 - pip
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/salary-predictor.git
-cd salary-predictor
-<img width="722" height="857" alt="image" src="https://github.com/user-attachments/assets/4d42fff5-ef30-461d-abbe-a30f05dd1bc6" />
 
