@@ -1,0 +1,1201 @@
+years_experience,level,location,current_title,skills,hours_per_week,salary
+2.3463404498842957,Advanced,Tunis,Data Scientist,"Machine Learning,Java,Python,SQL,React",43,4820.134268029401
+15.050607154587606,Beginner,Tunis,Ingénieur Logiciel,"React,SQL",49,5525.951649238366
+6.583728467727247,Beginner,Bizerte,Chef de Projet,"Kubernetes,Machine Learning,Linux",30,3607.3501598940557
+4.564712768879766,Intermediate,Monastir,Chef de Projet,"Machine Learning,Python,React,Kubernetes",39,4211.741867925073
+0.8481243523117314,Intermediate,Remote,Analyste Données,"Docker,Python,Kubernetes,React,Linux",46,2777.2404260726025
+0.847981459573026,Advanced,Sfax,Analyste Données,"Linux,Java",46,3518.7538819020324
+0.29919384304340335,Intermediate,Nabeul,Chef de Projet,"Java,SQL",46,3727.814975294384
+10.056154322399697,Intermediate,Remote,Analyste Données,"Java,Linux",33,3452.944842968527
+4.595410768136323,Intermediate,Bizerte,Data Scientist,"Python,Linux",46,3639.2564756181214
+6.156250308522951,Expert,Tunis,Technicien Réseau,"Linux,SQL,Kubernetes,Python,React",47,5787.814671439868
+0.10399653999569311,Intermediate,Nabeul,Technicien Réseau,"Machine Learning,React,SQL,Java,Kubernetes",49,2980.585660696893
+17.51778737579156,Intermediate,Tunis,Data Scientist,"Kubernetes,Machine Learning,Java,SQL,Linux",31,7015.283296033686
+8.932147716773375,Beginner,Sfax,Technicien Réseau,"Machine Learning,Python",37,3739.788306616406
+1.1934381262447349,Advanced,Monastir,Ingénieur Logiciel,"Linux,Docker,Machine Learning,SQL,React",42,3424.1901225461634
+1.0033949437483167,Intermediate,Remote,Data Scientist,"Docker,Java,Machine Learning",49,2851.0806931640714
+1.0130571141612852,Beginner,Remote,Analyste Données,"Machine Learning,React,Java",44,2109.653068432178
+1.8137686473023855,Beginner,Sousse,Data Scientist,"Docker,Java,Machine Learning,Linux",49,3663.3353514488413
+3.7196391543042724,Intermediate,Nabeul,Chef de Projet,"SQL,Machine Learning,Kubernetes,Java,React",38,4433.959134738527
+2.8276853339016834,Intermediate,Bizerte,Analyste Données,"React,Docker",32,2642.534220103454
+1.7211149627697075,Intermediate,Sousse,Chef de Projet,"Java,Docker",32,3337.002950921964
+4.731854369498993,Expert,Sfax,Analyste Données,"Kubernetes,Machine Learning,Java",31,4742.479529623066
+0.7511726436366933,Beginner,Bizerte,Technicien Réseau,"SQL,Machine Learning,Linux,Java",30,2025.035080596067
+1.7275775600120113,Intermediate,Monastir,Data Scientist,"Java,React",43,3001.0106043106675
+2.281386091104235,Advanced,Monastir,Ingénieur Logiciel,"Kubernetes,Machine Learning,Java,Docker,SQL",46,3940.6886945678225
+3.044673439298875,Intermediate,Monastir,Analyste Données,"Java,Python,Linux,SQL,Kubernetes",42,3619.1835093075747
+7.689680055154559,Intermediate,Monastir,Analyste Données,"Docker,Kubernetes",48,3895.197268416769
+1.1136793106434515,Intermediate,Sousse,Chef de Projet,"Linux,Machine Learning",44,3535.689701041568
+3.6101457751656385,Intermediate,Gabes,Technicien Réseau,"Python,Linux,Docker",43,2770.506632600523
+4.487523606548803,Expert,Bizerte,Chef de Projet,"Python,SQL,React,Linux,Machine Learning",31,4964.052657499911
+0.23781924878204272,Intermediate,Nabeul,Chef de Projet,"SQL,Docker,Java,React",36,3779.180922047553
+4.676665103248051,Advanced,Sfax,Technicien Réseau,"Docker,Machine Learning,SQL,React",46,4341.0543655002575
+0.9348062598870821,Beginner,Kef,Ingénieur Logiciel,"React,Docker",47,1895.2506823287754
+0.33631965439652123,Beginner,Tunis,Chef de Projet,"Kubernetes,React,Docker,Machine Learning,Python",35,3561.4801341136877
+14.868438967534654,Beginner,Nabeul,Chef de Projet,"Docker,React,Kubernetes,Python",37,5955.210124408033
+16.853151712305863,Intermediate,Tunis,Analyste Données,"Linux,SQL,React",31,6370.560685991947
+8.261657864064384,Intermediate,Bizerte,Technicien Réseau,"Docker,Python,Kubernetes,Linux,Machine Learning",30,3748.977125621062
+1.8164392998437915,Advanced,Nabeul,Data Scientist,"Machine Learning,React,Python",45,4266.26196276343
+0.5138865750125312,Intermediate,Monastir,Ingénieur Logiciel,"Docker,Python,SQL,Linux,React",36,2911.7951568444014
+5.763753815493309,Expert,Monastir,Ingénieur Logiciel,"Kubernetes,Linux,SQL,Java",40,5112.594989167199
+2.9004542129269915,Beginner,Kef,Technicien Réseau,"SQL,Python,Machine Learning,Linux",44,2682.9332226976558
+0.6507611697722432,Advanced,Tunis,Analyste Données,"Docker,SQL",42,3420.5336238365153
+3.4177361406707507,Advanced,Sfax,Analyste Données,"Machine Learning,Kubernetes",31,3775.413138446644
+0.17496860721739543,Advanced,Bizerte,Technicien Réseau,"Machine Learning,Python",43,2671.2472504467523
+12.002114436965119,Advanced,Monastir,Analyste Données,"SQL,Python,Linux,Java,React",35,5107.278498207315
+1.4972888842034304,Advanced,Gabes,Ingénieur Logiciel,"Python,Java,Machine Learning,Docker,Kubernetes",38,3214.530301028428
+5.431278992824902,Intermediate,Sousse,Ingénieur Logiciel,"Python,Docker,React,Linux",36,3886.6554231281066
+1.8677329082881182,Beginner,Sousse,Data Scientist,"React,Linux,Machine Learning,SQL",47,3502.381411900051
+3.6705544795461433,Beginner,Sfax,Technicien Réseau,"Machine Learning,Java,SQL,React,Docker",38,3281.6011362553
+3.9561189899089877,Advanced,Sousse,Chef de Projet,"Machine Learning,Java,React,SQL",33,4755.3541573142165
+1.0219429975395287,Intermediate,Tunis,Chef de Projet,"Kubernetes,Java,Linux,SQL",38,3915.661429466254
+17.46403566368113,Advanced,Monastir,Data Scientist,"Java,Linux,React,Machine Learning",33,6196.740078304511
+7.461226885690704,Intermediate,Monastir,Data Scientist,"Java,Machine Learning,SQL",41,4541.432544611979
+14.02547209645791,Beginner,Gabes,Analyste Données,"Linux,Kubernetes",33,3863.0508068622653
+11.260759987670983,Beginner,Nabeul,Data Scientist,"Python,Kubernetes,React",49,5333.638471663179
+4.555272061916375,Intermediate,Sousse,Data Scientist,"SQL,Linux,Java",43,4029.354930868392
+12.747176896347025,Intermediate,Tunis,Chef de Projet,"Java,Linux",36,6169.174210726108
+0.4632772947655781,Beginner,Remote,Analyste Données,"React,Docker,Python,Java",42,2353.1358036048523
+1.0906734731563372,Intermediate,Sousse,Data Scientist,"React,Linux,Docker,Java",37,3331.076413313287
+0.23140982843415978,Beginner,Sfax,Data Scientist,"Kubernetes,Python,Machine Learning,Java,SQL",34,3427.266041939879
+1.9676604340154342,Intermediate,Nabeul,Analyste Données,"Docker,Machine Learning,Kubernetes,Java,React",41,3733.104550601898
+2.460651458971093,Intermediate,Sousse,Technicien Réseau,"Docker,Java,Python,Linux,Kubernetes",42,3363.73154608223
+1.5828022160441284,Advanced,Tunis,Analyste Données,"React,Linux,Java,Machine Learning,Python",49,4416.076881912023
+8.82278932620467,Intermediate,Sousse,Chef de Projet,"Machine Learning,Docker",43,5034.832510167439
+2.2061349976493507,Intermediate,Sfax,Technicien Réseau,"Python,React,Docker",47,3223.6396968126123
+1.649014200671246,Beginner,Remote,Ingénieur Logiciel,"Java,Docker,SQL",49,2364.418522291218
+3.91203541603873,Beginner,Bizerte,Analyste Données,"React,Machine Learning",33,2606.9156873670536
+0.7594907391031442,Intermediate,Kef,Chef de Projet,"Python,SQL,Machine Learning",47,2968.0052389952702
+8.102417978873657,Intermediate,Remote,Technicien Réseau,"SQL,Docker,Java,Linux,Machine Learning",36,3408.48711242169
+0.38737934405654506,Intermediate,Sousse,Analyste Données,"React,Docker,SQL,Java",44,2893.928395368461
+21.6707316979366,Intermediate,Monastir,Data Scientist,"React,SQL",35,6808.991952785508
+7.397418881207557,Intermediate,Gabes,Analyste Données,"Linux,React,Docker",45,3525.4765947583
+1.1076972025294298,Advanced,Monastir,Ingénieur Logiciel,"SQL,React,Docker",49,3446.166182269528
+0.027687101879677375,Advanced,Remote,Analyste Données,"Kubernetes,Docker",37,2349.0840405915187
+8.44948388743063,Beginner,Monastir,Technicien Réseau,"SQL,Linux",45,3517.1040342898
+6.1354795369352235,Intermediate,Tunis,Technicien Réseau,"Python,Kubernetes",45,3987.132143629816
+6.528314543939995,Beginner,Monastir,Analyste Données,"Kubernetes,Docker,Machine Learning,React,Java",32,3465.9870583971483
+7.376072630217568,Beginner,Nabeul,Technicien Réseau,"Python,Kubernetes,SQL,Java",46,4026.5940428444683
+0.38464632756898176,Expert,Bizerte,Data Scientist,"Python,Docker",38,3892.0118334405697
+2.2194633620811626,Beginner,Sousse,Analyste Données,"Java,SQL",32,2427.613010576235
+0.6157505230222483,Intermediate,Monastir,Data Scientist,"React,Python,Linux,Machine Learning",49,3527.9828393902267
+9.942647858291114,Intermediate,Sfax,Data Scientist,"Python,Kubernetes",36,4935.31226089001
+4.8815059585618705,Advanced,Bizerte,Chef de Projet,"React,Machine Learning,Kubernetes,Java",47,4722.041577080525
+2.009094006256505,Intermediate,Bizerte,Analyste Données,"React,Kubernetes",41,2739.9731769979057
+0.32834032902391447,Beginner,Monastir,Technicien Réseau,"Machine Learning,Python,Linux,Java",48,2351.6687815406863
+1.8624417520517687,Intermediate,Bizerte,Data Scientist,"Machine Learning,Linux,Java,React",45,3495.5416272876664
+1.9665710659206568,Intermediate,Gabes,Chef de Projet,"Kubernetes,Linux,Python,Docker",46,3380.0472816955225
+6.539378919788704,Beginner,Monastir,Analyste Données,"Python,Machine Learning",49,3461.8815132909976
+5.0744467946300995,Intermediate,Tunis,Analyste Données,"Java,SQL,Machine Learning",44,3983.829048850528
+10.911259562007574,Beginner,Remote,Ingénieur Logiciel,"Docker,Kubernetes,Python,Linux",30,3296.221291914131
+3.195330666881549,Beginner,Nabeul,Ingénieur Logiciel,"Machine Learning,Docker,SQL,React",31,3139.739685774324
+0.6368619680775095,Intermediate,Kef,Data Scientist,"Docker,Kubernetes,Python",37,2612.9708646022746
+6.245631721582997,Beginner,Bizerte,Ingénieur Logiciel,"React,Docker",31,2980.4324729406776
+7.151963765384321,Intermediate,Tunis,Data Scientist,"Linux,Machine Learning",48,4946.272014453081
+4.119437474429144,Intermediate,Sousse,Technicien Réseau,"Java,Machine Learning",38,3030.7000004479387
+7.369449833606822,Advanced,Sousse,Data Scientist,"Java,SQL,Kubernetes",38,5123.645868532602
+3.4040736575513897,Beginner,Nabeul,Ingénieur Logiciel,"React,Linux,Machine Learning,Python,Docker",42,3439.9630212992406
+3.698394193886335,Beginner,Bizerte,Technicien Réseau,"Kubernetes,Java",35,2321.8777122469055
+2.789070969542137,Beginner,Gabes,Ingénieur Logiciel,"Java,Linux,Kubernetes,Machine Learning,Python",44,2743.0603883376702
+0.12873886995056866,Intermediate,Nabeul,Data Scientist,"Kubernetes,Python",48,3633.9278225298995
+0.5708371759593291,Advanced,Bizerte,Chef de Projet,"SQL,Machine Learning,Kubernetes,React,Linux",44,4079.7033074866235
+0.1596684064652691,Beginner,Tunis,Analyste Données,"Kubernetes,Java,React",47,2665.1650949154487
+5.0586477546377475,Advanced,Remote,Ingénieur Logiciel,"Kubernetes,Linux",36,3027.0248584743185
+1.8869835439754992,Beginner,Gabes,Data Scientist,"SQL,Docker",40,2527.6734086633733
+3.5521858856709505,Intermediate,Kef,Technicien Réseau,"Docker,Kubernetes,React,Linux",37,2757.967864771192
+11.906327649229878,Advanced,Sousse,Ingénieur Logiciel,"Java,Python,Machine Learning,SQL",35,5298.492990487049
+1.4336941149164917,Advanced,Sfax,Ingénieur Logiciel,"Docker,Java",37,3312.747594583514
+2.641409874413363,Advanced,Tunis,Analyste Données,"React,Docker,Machine Learning,SQL,Java",31,4217.0035704253005
+7.043745737692917,Advanced,Sousse,Data Scientist,"Machine Learning,Kubernetes,Java,Linux",48,5445.7179643213985
+1.2990257845869702,Intermediate,Monastir,Chef de Projet,"Python,Machine Learning,React,Kubernetes,Java",45,3679.727998109885
+0.40052139275088183,Advanced,Sfax,Technicien Réseau,"Java,Kubernetes,Docker",36,2994.0866124976674
+1.7107015194352853,Beginner,Sousse,Data Scientist,"React,Java,Docker,Python,Machine Learning",39,3505.6577586988624
+0.8790417925003142,Advanced,Nabeul,Technicien Réseau,"Kubernetes,Java",41,2961.6664053336244
+13.274750429403124,Intermediate,Gabes,Ingénieur Logiciel,"Python,Machine Learning,SQL,Docker,Linux",46,4871.350125243849
+8.254435402422848,Advanced,Sousse,Analyste Données,"Docker,Machine Learning,React,Python,Linux",36,4933.371662953501
+5.017470952602655,Intermediate,Kef,Analyste Données,"Python,Docker",37,3000.6360126048567
+10.257598652604065,Intermediate,Remote,Chef de Projet,"SQL,React,Python",36,4261.6156656437615
+8.139844703702781,Intermediate,Nabeul,Analyste Données,"Python,SQL",33,4012.950762731838
+1.0324773817931954,Advanced,Tunis,Ingénieur Logiciel,"React,Linux,Java,Python",32,3670.188621104037
+11.154067026177806,Beginner,Tunis,Chef de Projet,"React,Java",48,5483.101255221515
+3.87549950983086,Beginner,Tunis,Data Scientist,"Linux,Python,Machine Learning,React",44,4234.123823361084
+8.23674145651783,Beginner,Tunis,Analyste Données,"Python,Docker,React",33,4302.047977102139
+11.321213246431157,Beginner,Remote,Chef de Projet,"Linux,Docker",38,4068.159452509278
+1.9136535820915923,Advanced,Sousse,Ingénieur Logiciel,"Kubernetes,Java,Docker,React",42,3653.1184202772156
+0.5829608006192541,Beginner,Bizerte,Technicien Réseau,"React,Docker",47,2243.2165219497606
+1.2934337306969068,Expert,Sousse,Technicien Réseau,"Kubernetes,React,Linux,Java,Docker",45,4761.201110385023
+2.785288463743072,Intermediate,Monastir,Ingénieur Logiciel,"Java,Kubernetes",30,2795.8032946035837
+8.519148633194725,Beginner,Gabes,Ingénieur Logiciel,"Java,Kubernetes,Python,Machine Learning,React",33,3642.6106627792556
+9.856724859399167,Advanced,Sfax,Technicien Réseau,"Java,Linux,React,Python,SQL",47,5570.498264138358
+0.03488204590825324,Intermediate,Bizerte,Chef de Projet,"Machine Learning,Java,React,Docker,Python",37,3128.310483967889
+3.574380796692779,Intermediate,Bizerte,Technicien Réseau,"Python,Machine Learning,Java",49,3020.7313894037547
+2.7013666045933564,Intermediate,Sousse,Ingénieur Logiciel,"Machine Learning,Linux,React",45,3300.7701760008736
+1.2558366913791223,Advanced,Bizerte,Analyste Données,"Java,Linux,SQL,Python,Machine Learning",40,3432.605489618599
+0.638401957728234,Beginner,Monastir,Data Scientist,"Machine Learning,Docker,Kubernetes,React,Linux",49,3421.016114647032
+2.059542899312162,Expert,Sfax,Analyste Données,"Machine Learning,Java,Docker",48,4719.114277545458
+14.315605613455748,Expert,Kef,Analyste Données,"React,Docker",48,5608.368618600653
+1.951919014407372,Intermediate,Remote,Ingénieur Logiciel,"Java,Kubernetes",47,2317.9096245608407
+3.6572640288007596,Beginner,Sousse,Technicien Réseau,"Kubernetes,Python",48,2912.8244495461954
+6.070434884404275,Intermediate,Remote,Chef de Projet,"Java,Linux,Python",40,3526.6067837100263
+2.259872494834812,Beginner,Kef,Analyste Données,"Machine Learning,Kubernetes,React,Docker",32,2271.092095968612
+17.8389906914585,Beginner,Sousse,Technicien Réseau,"Kubernetes,React",37,5441.638871402153
+16.41004932270699,Intermediate,Sousse,Chef de Projet,"Docker,Linux",49,6563.34195918744
+1.4503064749610264,Intermediate,Sfax,Analyste Données,"Java,Machine Learning,Linux,Kubernetes,React",48,3571.8782792457305
+3.438296392319236,Advanced,Remote,Chef de Projet,"Python,Linux,SQL",39,3388.7710130654214
+1.7896523003952338,Advanced,Tunis,Technicien Réseau,"Kubernetes,Python,Docker,Java",45,3808.1866842723857
+1.6762483819054086,Advanced,Remote,Data Scientist,"Python,Machine Learning",34,3058.9194191474076
+0.18792238882761267,Intermediate,Gabes,Technicien Réseau,"SQL,Docker,Java,Python,React",49,2720.620351801646
+4.702460354912966,Intermediate,Gabes,Ingénieur Logiciel,"Kubernetes,Machine Learning",38,2873.8445176573755
+3.4925981641481925,Intermediate,Sousse,Chef de Projet,"Kubernetes,Python,Java",37,3973.545869205447
+0.2642554369019624,Expert,Tunis,Data Scientist,"Kubernetes,SQL,Java,Machine Learning",40,4860.536650625676
+1.6331296050518467,Beginner,Nabeul,Chef de Projet,"SQL,Java,Python",45,3395.2971652893248
+11.944304755446701,Advanced,Kef,Chef de Projet,"Kubernetes,Python",36,5180.191582430045
+1.3693027607103851,Intermediate,Monastir,Analyste Données,"Java,React,Kubernetes,Python",44,3117.6352975014465
+0.7826543049273488,Intermediate,Tunis,Ingénieur Logiciel,"Java,SQL,Docker,Kubernetes,Machine Learning",49,3747.7878929098842
+3.3613605473681814,Advanced,Monastir,Chef de Projet,"Python,React,Machine Learning,SQL,Docker",46,4587.478451026699
+21.2201849130763,Intermediate,Remote,Technicien Réseau,"Python,Linux",35,4850.607047753294
+1.3857240677986309,Advanced,Remote,Technicien Réseau,"Java,SQL,Machine Learning",44,2804.8543828792504
+5.575775051486467,Advanced,Monastir,Analyste Données,"Linux,React,Machine Learning,Kubernetes",37,3901.134053649413
+7.169438131197314,Intermediate,Kef,Ingénieur Logiciel,"Python,Docker,React,Java",36,3635.841089927556
+1.356665861679029,Intermediate,Tunis,Ingénieur Logiciel,"Docker,Java,Machine Learning,Kubernetes,SQL",31,3459.779734811238
+6.513744642461581,Intermediate,Nabeul,Technicien Réseau,"Linux,Python",42,3789.977584072385
+2.29261399632152,Advanced,Sousse,Data Scientist,"React,Java",35,3605.6486515979022
+5.002518738658857,Beginner,Sfax,Analyste Données,"Java,Docker",34,3011.1447044893503
+5.019189135688191,Intermediate,Remote,Analyste Données,"Kubernetes,Docker,Java",49,3133.0720120803016
+3.836926249761744,Intermediate,Gabes,Technicien Réseau,"Linux,React,Docker,Python,Machine Learning",30,2886.589179241606
+0.47314579405810475,Advanced,Kef,Technicien Réseau,"SQL,Machine Learning,Docker,React",47,2901.371401046328
+9.018223971231485,Beginner,Sfax,Data Scientist,"Linux,React,SQL",44,4854.077601873439
+1.9340514683369832,Advanced,Nabeul,Data Scientist,"Kubernetes,Machine Learning,Docker,Java,React",39,4224.832824060385
+1.0321605330377828,Advanced,Bizerte,Ingénieur Logiciel,"Docker,Python,SQL,Java",32,3171.6708962419793
+0.208148798971726,Beginner,Sousse,Analyste Données,"Kubernetes,Docker,Java",34,2281.8443169972097
+4.468892022972917,Beginner,Remote,Analyste Données,"Kubernetes,Python,Docker,Java,SQL",42,3026.6942786281074
+5.659258671336744,Expert,Sousse,Technicien Réseau,"SQL,Kubernetes,Java,Python,Docker",37,4853.688893835448
+0.0836347377923531,Beginner,Sfax,Ingénieur Logiciel,"Python,Kubernetes,Linux",31,2470.1733265397243
+3.588152922747442,Advanced,Sousse,Analyste Données,"SQL,Kubernetes,Docker,Python,Java",38,4124.362748033358
+1.2841207352747883,Intermediate,Bizerte,Ingénieur Logiciel,"Machine Learning,Kubernetes,Python,React,SQL",46,2940.0917023583343
+5.18062170773846,Beginner,Sfax,Ingénieur Logiciel,"Linux,Machine Learning,Kubernetes",47,3629.095739358013
+0.9580211126956688,Advanced,Remote,Technicien Réseau,"React,Python,Machine Learning",42,2463.652444391856
+5.8710626378385955,Intermediate,Tunis,Ingénieur Logiciel,"Machine Learning,Java,Kubernetes,SQL,Docker",30,4414.889542950976
+2.4447935049055087,Intermediate,Gabes,Data Scientist,"Machine Learning,Linux",41,3032.8477102035945
+13.801719089021535,Intermediate,Sfax,Data Scientist,"Docker,Python",49,6225.86921078063
+0.7397220671963947,Intermediate,Bizerte,Chef de Projet,"Linux,SQL",49,3255.9067354994363
+2.085662169975859,Beginner,Sfax,Technicien Réseau,"React,Machine Learning,Java",34,2703.3381698498542
+0.6022214251849821,Intermediate,Sfax,Chef de Projet,"Python,Java,SQL,React",37,3923.336351234245
+12.930951985753618,Expert,Remote,Data Scientist,"React,Python",44,5531.133701247686
+10.491668535804969,Intermediate,Sfax,Chef de Projet,"Linux,Kubernetes",32,5182.18766092941
+1.4916368503074446,Intermediate,Gabes,Technicien Réseau,"Linux,Machine Learning,Kubernetes,SQL",35,2404.2370105215996
+5.393813695219572,Intermediate,Sousse,Technicien Réseau,"Machine Learning,Kubernetes,Java,Python,SQL",42,3881.659263603769
+8.497420363196106,Advanced,Remote,Ingénieur Logiciel,"SQL,Linux,Machine Learning,Python",41,4073.2337341565903
+4.05066180343254,Beginner,Gabes,Analyste Données,"Python,Machine Learning",48,2602.259862791673
+3.77139705096973,Expert,Remote,Ingénieur Logiciel,"Machine Learning,Kubernetes,Docker,Python",47,4137.42630300099
+1.3843852271895156,Intermediate,Gabes,Technicien Réseau,"React,Docker,Python,Java",30,2405.1626752515363
+0.48863070237470363,Beginner,Bizerte,Data Scientist,"React,Linux,Python,Machine Learning",36,2604.618008669259
+11.375616125972615,Beginner,Gabes,Data Scientist,"Kubernetes,Java,SQL,Machine Learning,Python",41,4608.900093007246
+11.533872138242135,Beginner,Monastir,Ingénieur Logiciel,"Machine Learning,Kubernetes,SQL,Java,Linux",39,4645.818217566889
+5.0133495974144235,Intermediate,Gabes,Technicien Réseau,"Kubernetes,Docker,Machine Learning",41,2921.851837738528
+2.0702325490566196,Intermediate,Tunis,Data Scientist,"SQL,Linux,Docker,Machine Learning,Kubernetes",40,4264.639774726968
+2.1478380790582197,Advanced,Tunis,Technicien Réseau,"Machine Learning,Python,Kubernetes,SQL,Java",33,3812.071648711392
+6.472327148635591,Intermediate,Kef,Data Scientist,"SQL,Java",48,3777.2105620555544
+11.370486745536262,Beginner,Monastir,Technicien Réseau,"Python,Kubernetes,Docker",35,3999.4578361154254
+10.905662846983066,Intermediate,Monastir,Chef de Projet,"Docker,Python,Kubernetes",38,4913.117324682912
+7.5678109596545164,Advanced,Sousse,Technicien Réseau,"Python,Machine Learning",49,4368.100464848363
+5.1365534678385245,Beginner,Monastir,Technicien Réseau,"Linux,Docker,SQL",39,2948.1473751957437
+0.43945863098042026,Beginner,Sousse,Ingénieur Logiciel,"Python,Machine Learning,Linux,Kubernetes",34,2650.75993401342
+0.8814710734170574,Beginner,Kef,Chef de Projet,"Machine Learning,Docker,Java,SQL",42,3062.27546457554
+11.441152500887528,Advanced,Kef,Analyste Données,"Python,Kubernetes,Java",38,4386.926120832245
+4.662469734827948,Intermediate,Bizerte,Ingénieur Logiciel,"Linux,Docker,SQL,Java",31,3143.965317054429
+0.04619802805497204,Intermediate,Tunis,Analyste Données,"Python,Machine Learning,Java,Docker,Linux",47,3302.9596012876787
+0.5349845071797467,Advanced,Gabes,Data Scientist,"Java,Docker,Python",30,2906.227834801647
+5.4458119364512045,Advanced,Gabes,Analyste Données,"SQL,Machine Learning,Docker,React",41,3646.6772123684614
+0.025372185258985012,Intermediate,Nabeul,Technicien Réseau,"Python,Linux,Java,Machine Learning",39,2681.7860012131678
+0.8765790805209952,Advanced,Remote,Analyste Données,"React,Java,Docker",31,2626.925389570948
+3.9784892306946587,Beginner,Bizerte,Ingénieur Logiciel,"Docker,Python,Linux,React",38,3006.021929260518
+5.8865764332740635,Beginner,Nabeul,Ingénieur Logiciel,"Java,Machine Learning,Kubernetes,Linux,SQL",31,3804.3790683355323
+5.277207410676244,Intermediate,Nabeul,Analyste Données,"Docker,Machine Learning,SQL,React,Java",43,4239.246341546439
+1.2697493365401225,Beginner,Sfax,Ingénieur Logiciel,"SQL,Python,Machine Learning,Kubernetes",40,3017.8849331091715
+6.227086444492694,Intermediate,Sfax,Ingénieur Logiciel,"React,SQL,Machine Learning,Kubernetes",40,4323.119194780483
+1.3541187952640297,Advanced,Nabeul,Analyste Données,"React,Python",46,3610.8136203175804
+1.9681745445904222,Beginner,Monastir,Chef de Projet,"Kubernetes,Linux,SQL,Docker,Machine Learning",33,3400.714267753265
+6.861787758328953,Beginner,Remote,Chef de Projet,"Python,Machine Learning",42,3393.1797291247076
+5.24386907151384,Intermediate,Bizerte,Data Scientist,"Python,Docker,SQL",36,3687.6533308864814
+9.459780387317005,Advanced,Nabeul,Ingénieur Logiciel,"SQL,Java,Machine Learning,Kubernetes,Python",45,5565.809209507334
+5.359066440848812,Intermediate,Gabes,Analyste Données,"React,Java,Machine Learning,Linux,Kubernetes",30,3353.5831480083552
+4.200221527936287,Intermediate,Remote,Ingénieur Logiciel,"Python,Linux,Kubernetes,SQL,React",42,3291.702306002905
+0.49178530724205244,Beginner,Sfax,Technicien Réseau,"Python,React,Java,Kubernetes",30,2439.879343221016
+2.2920815360351003,Beginner,Gabes,Ingénieur Logiciel,"Linux,React,Python,Kubernetes",40,2485.4493198280898
+1.5408007392941558,Expert,Sfax,Ingénieur Logiciel,"Java,Docker,Machine Learning,React,Kubernetes",35,4797.263199442284
+1.3985010183121063,Expert,Sfax,Chef de Projet,"Linux,Kubernetes,React,SQL",49,5558.976174500887
+18.06154703081463,Beginner,Remote,Analyste Données,"Python,Java,Docker,Linux",32,4528.081698589019
+2.4969374852001187,Expert,Sfax,Ingénieur Logiciel,"SQL,Java",41,4597.176103726515
+11.130276056242614,Intermediate,Kef,Chef de Projet,"React,Linux,Machine Learning,Java,Docker",34,4755.773851042829
+4.986671928682416,Advanced,Tunis,Data Scientist,"Linux,Python,SQL",38,4983.1048074852015
+7.919126263441999,Intermediate,Kef,Chef de Projet,"Docker,React,Kubernetes",41,4224.9247634977755
+3.492176621943852,Intermediate,Tunis,Chef de Projet,"Kubernetes,Machine Learning,Java,Python",39,4589.432187814962
+4.300779513207925,Intermediate,Sfax,Chef de Projet,"SQL,Java,Python,Kubernetes",48,4719.959178778261
+3.391467166708467,Intermediate,Bizerte,Ingénieur Logiciel,"Python,Machine Learning,Kubernetes",34,2689.2548266432436
+1.0860744766261925,Beginner,Bizerte,Ingénieur Logiciel,"Linux,Python,SQL,Machine Learning",34,2285.7023928434037
+6.408809015329019,Beginner,Tunis,Data Scientist,"Kubernetes,Machine Learning,Docker,Linux",38,4529.99873509051
+1.6478868418313146,Intermediate,Gabes,Technicien Réseau,"Docker,React",49,2660.677197999291
+0.12308240540344308,Advanced,Remote,Technicien Réseau,"Machine Learning,Linux,React,Docker",46,2736.727224233654
+5.18484393147637,Beginner,Sfax,Technicien Réseau,"Docker,Python,Linux,Java",39,3693.297929276667
+0.9746678511241135,Intermediate,Remote,Data Scientist,"SQL,Machine Learning,Linux",30,2569.113332258397
+14.105415736366515,Expert,Kef,Technicien Réseau,"Python,SQL",45,5450.4363459861825
+15.387812063940116,Beginner,Bizerte,Technicien Réseau,"Java,React,Machine Learning",44,4846.605431530397
+12.317549423169208,Intermediate,Monastir,Chef de Projet,"Java,Python,React",46,5489.854967853284
+2.3114369824868337,Intermediate,Kef,Ingénieur Logiciel,"Docker,Linux",49,2641.0133153668494
+0.07788657685972192,Advanced,Kef,Ingénieur Logiciel,"Python,Linux,Java",42,2830.352419551631
+13.177617286659448,Beginner,Tunis,Chef de Projet,"Machine Learning,SQL,Python",30,5934.422678603821
+2.7946913852653066,Intermediate,Sousse,Chef de Projet,"Machine Learning,Kubernetes",37,3584.5267589881555
+17.00421008061028,Advanced,Kef,Chef de Projet,"Docker,Python,Linux,React",34,6068.9708861859535
+16.568677380651028,Advanced,Sfax,Ingénieur Logiciel,"Machine Learning,SQL,Java,Linux",35,6595.03273808948
+9.586935085897094,Intermediate,Nabeul,Technicien Réseau,"Java,React,Machine Learning,Python",49,4929.693553926897
+1.7438803408608015,Intermediate,Nabeul,Chef de Projet,"Linux,Java",43,3832.5278114615994
+2.431459660493468,Intermediate,Sfax,Data Scientist,"React,Python,Java,SQL,Machine Learning",40,4082.3002948452954
+9.523633262390398,Advanced,Sousse,Chef de Projet,"Java,Python",35,5280.391631150579
+1.9057311571535853,Intermediate,Sousse,Analyste Données,"SQL,Linux,Java",40,3020.7247742966215
+0.928593081478774,Beginner,Tunis,Chef de Projet,"Linux,Machine Learning,Kubernetes,Python,Java",42,3973.7944177279583
+4.068684960301139,Advanced,Bizerte,Ingénieur Logiciel,"Python,Linux,Java,SQL,Kubernetes",41,3752.2873496240036
+13.756467354035209,Intermediate,Remote,Chef de Projet,"Docker,Machine Learning,Linux,React,Kubernetes",31,4829.368768397729
+5.954127988789686,Intermediate,Sousse,Analyste Données,"Java,Docker,React,Linux",32,3733.9306030333923
+4.220561682178277,Beginner,Monastir,Data Scientist,"React,Linux",33,3219.8337068396772
+0.5111409867466145,Intermediate,Tunis,Technicien Réseau,"Java,Docker,Python",46,2881.9329826447624
+4.7726535775885885,Intermediate,Gabes,Chef de Projet,"SQL,Machine Learning,Java,Docker",35,3684.5372271863384
+23.052848739231585,Intermediate,Tunis,Analyste Données,"Machine Learning,SQL",36,7347.270495996776
+0.7546029332113208,Beginner,Kef,Analyste Données,"Machine Learning,React,Python,SQL",44,2339.327412454498
+3.6524766249075187,Intermediate,Remote,Data Scientist,"React,Python,Kubernetes,Docker,Linux",40,3291.07873409714
+10.493043189503972,Expert,Gabes,Ingénieur Logiciel,"Docker,Linux,React,Java",32,5111.260291794091
+6.75017124176835,Beginner,Gabes,Chef de Projet,"Machine Learning,SQL,Python",35,3583.3719078378194
+5.970372126508366,Expert,Monastir,Analyste Données,"Linux,Kubernetes,Java,Docker",31,4871.658684962005
+6.06143778112245,Intermediate,Monastir,Data Scientist,"Kubernetes,React,Docker,SQL",43,4340.350419940009
+2.2274617115747457,Advanced,Monastir,Technicien Réseau,"Java,Kubernetes,React,Docker,Linux",38,3297.2911340831724
+1.737810421335476,Advanced,Tunis,Analyste Données,"Kubernetes,SQL,Java,Machine Learning,Python",47,4173.021625576459
+8.286872536298562,Intermediate,Remote,Data Scientist,"Java,Docker,SQL",48,3916.8026106101897
+8.306640995435144,Advanced,Tunis,Ingénieur Logiciel,"SQL,React",41,4992.664146459774
+10.089750236839574,Advanced,Nabeul,Ingénieur Logiciel,"Docker,Java,SQL,Python,Kubernetes",42,5540.075119930994
+12.223079809183181,Intermediate,Kef,Analyste Données,"Docker,Linux,Java,React,Machine Learning",41,4694.315453372418
+3.5804661846645187,Intermediate,Kef,Analyste Données,"Machine Learning,Linux,Java,Python",41,3139.1862859146618
+3.480921887755996,Intermediate,Monastir,Chef de Projet,"React,Java",47,3628.242944022763
+8.004749661542437,Advanced,Nabeul,Data Scientist,"React,Docker,Linux,Machine Learning",38,5467.456590187229
+5.2485953744390015,Advanced,Sousse,Analyste Données,"Linux,Docker,SQL",46,4205.751915597297
+6.052753242557585,Advanced,Sousse,Chef de Projet,"SQL,Machine Learning,Python,Java,React",45,5483.924584427952
+7.943097374771025,Intermediate,Monastir,Chef de Projet,"Kubernetes,Machine Learning,Linux",46,4543.491585370277
+11.036617381733835,Advanced,Tunis,Analyste Données,"Java,Docker",37,5652.24067775227
+2.062412035688271,Beginner,Monastir,Ingénieur Logiciel,"Machine Learning,Linux",40,2442.6075733508087
+2.3546839436377818,Intermediate,Bizerte,Data Scientist,"Java,Python,Kubernetes",31,3145.589483862797
+0.4934801959368028,Beginner,Gabes,Data Scientist,"Python,React",37,2285.972444666634
+4.3170701330471735,Intermediate,Kef,Ingénieur Logiciel,"Java,Python,Linux",41,3014.3910613020025
+0.18302052105428498,Intermediate,Sousse,Analyste Données,"Kubernetes,React,Java,Linux,Docker",30,2663.5044346480104
+3.133034740910548,Intermediate,Sfax,Data Scientist,"Java,Kubernetes",42,3956.2496140145277
+3.9114729284356295,Intermediate,Sousse,Analyste Données,"Java,React",46,3358.7050411371597
+1.6881533015726125,Intermediate,Kef,Analyste Données,"React,Python,Machine Learning,Java",43,2757.2618806521054
+4.468162650730877,Intermediate,Gabes,Chef de Projet,"Machine Learning,Linux",43,3801.50583427493
+0.15487531050737272,Beginner,Kef,Ingénieur Logiciel,"SQL,React,Kubernetes,Machine Learning,Linux",45,2612.765682057294
+0.1903174964139469,Intermediate,Sfax,Analyste Données,"Machine Learning,React",46,2780.8315809963497
+8.64675684769068,Beginner,Monastir,Technicien Réseau,"Python,Java,Linux,Machine Learning",35,3612.7127935351014
+2.2329251210387238,Beginner,Nabeul,Ingénieur Logiciel,"Machine Learning,Linux,Docker",36,2938.1060177370377
+0.6794452064871399,Intermediate,Sfax,Data Scientist,"Linux,Python,SQL,Machine Learning",30,3515.271633195719
+3.693267941395078,Intermediate,Kef,Chef de Projet,"Machine Learning,Python,SQL",44,3767.151342201951
+7.3482397022286765,Intermediate,Kef,Data Scientist,"Machine Learning,Docker,Kubernetes",49,3845.6038545459246
+1.2155900171495169,Intermediate,Bizerte,Data Scientist,"Java,Python,Machine Learning",47,3308.7550318255994
+4.876098093282464,Intermediate,Bizerte,Ingénieur Logiciel,"Python,React,Machine Learning,Linux",42,3589.3383099250395
+0.44605514494948645,Advanced,Remote,Data Scientist,"SQL,Docker,Kubernetes",31,2746.795242502253
+0.265325479551547,Intermediate,Bizerte,Analyste Données,"Docker,Python",48,2477.339567896566
+3.789544703127605,Intermediate,Tunis,Data Scientist,"Kubernetes,Linux,Python",44,4138.263413926898
+3.889552213473711,Beginner,Nabeul,Chef de Projet,"Machine Learning,React,Kubernetes,Linux",41,4093.2856777362726
+5.072687241023079,Intermediate,Gabes,Chef de Projet,"Java,Linux,Machine Learning,Kubernetes,SQL",44,4069.0247332638455
+6.4748028145834216,Intermediate,Sfax,Technicien Réseau,"Docker,React",47,4090.035501742534
+18.617785043499964,Intermediate,Kef,Chef de Projet,"Linux,Java",43,5997.168257796613
+3.631455596151781,Intermediate,Remote,Data Scientist,"Machine Learning,Java,Linux",35,2903.7144861595934
+1.950098570529894,Intermediate,Remote,Chef de Projet,"Kubernetes,Docker,React",41,3230.4825095886954
+7.928269898663432,Intermediate,Gabes,Ingénieur Logiciel,"Python,Docker",49,3401.419388691834
+1.5792573271806865,Advanced,Nabeul,Chef de Projet,"Kubernetes,React,Linux",35,4123.185596773679
+2.8899171563665065,Advanced,Sfax,Analyste Données,"Linux,React,SQL",38,3752.707980984309
+0.4085258429183495,Advanced,Sousse,Ingénieur Logiciel,"Linux,Python",33,2998.346292936294
+0.1283880477073719,Expert,Bizerte,Technicien Réseau,"Docker,React,Linux,Machine Learning",46,3756.564528670174
+16.43689961634301,Beginner,Monastir,Analyste Données,"SQL,React,Kubernetes,Java",31,5195.623793774388
+9.038838210575314,Beginner,Remote,Data Scientist,"SQL,Kubernetes,Machine Learning",45,3722.4986899510086
+5.953213663996708,Beginner,Bizerte,Data Scientist,"Java,Machine Learning,React",43,3747.2616906483418
+2.6292982223257093,Intermediate,Bizerte,Data Scientist,"Python,SQL,Docker,Machine Learning,Linux",37,3626.5588502210867
+0.9515326807105438,Advanced,Tunis,Analyste Données,"React,Python,SQL",43,3664.6981261673504
+0.8506037078642708,Beginner,Nabeul,Analyste Données,"Kubernetes,Linux,Docker,Machine Learning",31,2752.1786092190714
+1.440029945632918,Advanced,Monastir,Analyste Données,"Python,Linux,Kubernetes",45,3586.947897935568
+3.983953241566573,Beginner,Sousse,Ingénieur Logiciel,"Machine Learning,Kubernetes,Linux,SQL,Java",33,3260.371066696335
+6.2692464388838784,Advanced,Kef,Ingénieur Logiciel,"SQL,Java",30,3592.603294873903
+5.396951748483993,Intermediate,Tunis,Data Scientist,"SQL,React,Python",49,4698.4302877870305
+1.6420613069449796,Beginner,Bizerte,Chef de Projet,"Python,Machine Learning,Docker,Kubernetes",43,3430.343708055757
+15.490517492781532,Intermediate,Bizerte,Data Scientist,"SQL,Java,Linux",37,5349.730414712185
+6.695087024376132,Intermediate,Monastir,Technicien Réseau,"Docker,Kubernetes",32,3374.712492196027
+4.0411524096566565,Intermediate,Monastir,Ingénieur Logiciel,"SQL,Python,Machine Learning,Linux",34,3383.4649647884394
+4.7301523601871756,Intermediate,Monastir,Analyste Données,"Linux,Kubernetes,Machine Learning,Docker",35,3236.628076088918
+2.7201893276602567,Advanced,Bizerte,Ingénieur Logiciel,"Machine Learning,Java",37,3360.6161886025147
+1.4233064613703175,Intermediate,Remote,Analyste Données,"Java,React,Python,SQL,Linux",35,2473.0818129883846
+2.200070646615562,Intermediate,Sfax,Technicien Réseau,"Machine Learning,Linux",35,2671.4477502691134
+7.090909238783566,Intermediate,Bizerte,Technicien Réseau,"SQL,Kubernetes",33,3126.8209958268426
+0.07249039860402139,Advanced,Tunis,Ingénieur Logiciel,"React,Python,Machine Learning,SQL",36,3905.2338030936576
+0.6169019611998803,Intermediate,Nabeul,Analyste Données,"Docker,SQL",48,2831.9259397116307
+0.23547188476260264,Intermediate,Sousse,Technicien Réseau,"Machine Learning,Java,React,Linux",36,2707.6417233965717
+0.20790725958646214,Beginner,Kef,Data Scientist,"Machine Learning,Java,Linux,Kubernetes,Python",32,2496.658315017291
+9.671015168078293,Beginner,Sousse,Data Scientist,"React,Kubernetes,Docker,Java,SQL",37,4775.865989659969
+6.081203058503442,Intermediate,Bizerte,Analyste Données,"Kubernetes,Machine Learning,Docker,React,Python",30,3356.8795519479404
+3.213922972064462,Beginner,Tunis,Ingénieur Logiciel,"Docker,Linux,Java,Kubernetes,React",30,3476.1613335310876
+0.5147845922390663,Intermediate,Bizerte,Technicien Réseau,"Machine Learning,Kubernetes,Python",43,2445.275738123012
+3.3825898289861662,Advanced,Nabeul,Ingénieur Logiciel,"SQL,Java",35,3569.8627318246695
+3.207251660471856,Beginner,Remote,Data Scientist,"Machine Learning,Linux,Kubernetes,Docker",39,3010.6964123093153
+0.950973564001125,Intermediate,Kef,Technicien Réseau,"Python,Linux,Kubernetes",43,2517.5808713127003
+2.844495656511619,Intermediate,Nabeul,Ingénieur Logiciel,"Java,React",33,3169.2642336600916
+2.5416830729160345,Expert,Bizerte,Chef de Projet,"Docker,SQL",35,4534.349515792235
+4.783612164565673,Intermediate,Tunis,Analyste Données,"Docker,Java,React,Machine Learning,Kubernetes",45,4339.7463949399835
+5.04057268020456,Advanced,Nabeul,Analyste Données,"Linux,Python,Java,Machine Learning",30,4223.771922071673
+0.23181162010267364,Intermediate,Gabes,Chef de Projet,"Kubernetes,Docker,Python,React,Linux",35,3097.544216393037
+2.346920023275308,Beginner,Tunis,Data Scientist,"Docker,Machine Learning,React",38,3386.4363365012236
+4.915624973913642,Intermediate,Remote,Technicien Réseau,"Java,Kubernetes",44,2757.3347531163836
+3.4971972630389487,Expert,Bizerte,Analyste Données,"Java,Linux,SQL,Docker,React",41,4492.024875544328
+9.706747265877194,Intermediate,Monastir,Chef de Projet,"Linux,Java,Kubernetes",32,4759.924665816454
+5.374873820274989,Advanced,Kef,Chef de Projet,"Linux,React,Python",40,4151.241393365304
+0.8892643438365366,Advanced,Sfax,Data Scientist,"Docker,Java,React,Machine Learning,SQL",44,4543.605473978048
+0.3659121812812042,Beginner,Monastir,Data Scientist,"Machine Learning,Kubernetes,Docker",32,2625.2393150619437
+5.141970735544455,Beginner,Bizerte,Ingénieur Logiciel,"Machine Learning,Docker",43,2860.738479450064
+0.13434536333697214,Intermediate,Gabes,Analyste Données,"SQL,Python,Machine Learning",31,2167.8864583348236
+4.406736889036454,Intermediate,Monastir,Ingénieur Logiciel,"SQL,React,Docker,Kubernetes",33,3388.5351537767565
+14.086277276935759,Advanced,Kef,Chef de Projet,"Python,Linux,Kubernetes,Java",48,5893.065685028307
+4.283912227887722,Advanced,Tunis,Technicien Réseau,"Python,Java,Docker",41,4145.619731755129
+2.4565034611195364,Intermediate,Gabes,Technicien Réseau,"Docker,Python,Machine Learning,Linux",31,2409.7901894251872
+5.15413578922491,Beginner,Gabes,Data Scientist,"Python,Linux,Kubernetes,Machine Learning,SQL",46,3736.542592187373
+3.0647798702554563,Advanced,Nabeul,Technicien Réseau,"Machine Learning,Docker,Linux",32,3602.19944674555
+3.944071802881601,Intermediate,Kef,Technicien Réseau,"SQL,Python,Kubernetes,Machine Learning,React",39,3068.5267015751206
+14.190635731164996,Advanced,Monastir,Technicien Réseau,"Kubernetes,Python",45,5389.300136805282
+2.439637636750936,Intermediate,Nabeul,Chef de Projet,"SQL,Kubernetes",38,3948.4188902317533
+16.24545930753377,Intermediate,Gabes,Technicien Réseau,"Kubernetes,React",40,4587.018595342441
+11.787880918849595,Beginner,Nabeul,Technicien Réseau,"Docker,Kubernetes,React,Linux,Machine Learning",44,4923.576984223087
+1.08948130470225,Intermediate,Sousse,Technicien Réseau,"Kubernetes,SQL,Java",32,2592.0269431288352
+0.3594207765157851,Intermediate,Kef,Ingénieur Logiciel,"Docker,Java,SQL,Machine Learning,Python",45,2862.2241291593077
+0.5311266774081511,Intermediate,Remote,Chef de Projet,"Machine Learning,Docker,Python,Linux",41,2968.3431688365486
+0.09194943923616852,Beginner,Tunis,Data Scientist,"Linux,React,Docker,Machine Learning,Python",34,3268.0114006993954
+0.4960250582787707,Advanced,Gabes,Ingénieur Logiciel,"Python,Machine Learning,Kubernetes,Java,SQL",36,3035.6344780674726
+5.744374362885836,Advanced,Kef,Analyste Données,"Python,Machine Learning,Kubernetes,Java",38,3434.187671290719
+0.36924813473213514,Beginner,Remote,Chef de Projet,"React,Machine Learning,Java",47,2638.8359177173716
+1.9207859414743425,Beginner,Remote,Chef de Projet,"Java,Docker",37,2702.9656640375433
+9.317630200486386,Beginner,Bizerte,Analyste Données,"Docker,Python,SQL,Java",41,3979.5064050314804
+0.11773501590355755,Intermediate,Nabeul,Analyste Données,"Docker,Java,Python",49,2627.82308029679
+8.422652530929792,Intermediate,Remote,Analyste Données,"Python,SQL,Machine Learning",31,3263.320007602632
+1.6554173341981473,Intermediate,Sousse,Data Scientist,"SQL,Python,Docker",39,3542.1555707139964
+0.6287505991455382,Beginner,Kef,Technicien Réseau,"Python,Linux,Java,React",48,2165.760315658325
+5.9657770421995675,Intermediate,Sfax,Chef de Projet,"Machine Learning,Kubernetes",38,4438.3764115037175
+4.956995882166101,Intermediate,Sfax,Technicien Réseau,"SQL,Docker",37,3533.078495301183
+10.497079070434733,Intermediate,Gabes,Technicien Réseau,"Kubernetes,Python,Docker,Machine Learning",30,3734.45832472507
+6.641467893822002,Expert,Nabeul,Analyste Données,"Machine Learning,React,SQL,Linux,Python",35,5838.6344420302485
+8.134979029969891,Beginner,Remote,Data Scientist,"React,Linux,Machine Learning",41,3451.877652865192
+1.6566693115336928,Intermediate,Kef,Ingénieur Logiciel,"SQL,React,Python",48,2945.8691064296618
+0.9766664802022349,Intermediate,Gabes,Data Scientist,"Linux,Java,Kubernetes",46,3002.021287801564
+6.943781980027124,Intermediate,Monastir,Technicien Réseau,"React,SQL,Java,Python,Linux",31,3650.976882947184
+8.221045916217097,Advanced,Remote,Data Scientist,"Linux,SQL,React,Python,Kubernetes",40,4556.297618633089
+23.28502445070115,Intermediate,Nabeul,Analyste Données,"Java,Machine Learning",47,7253.48444212552
+2.660396770763025,Expert,Sfax,Ingénieur Logiciel,"React,Python,Linux,Kubernetes,Docker",40,4959.354677681495
+2.3262195598086635,Beginner,Bizerte,Analyste Données,"Java,Python,React,Docker",47,2888.3640319910096
+7.489772516717935,Beginner,Kef,Ingénieur Logiciel,"Linux,Docker,SQL,Python,Kubernetes",37,3494.64221501138
+2.0836683546537658,Advanced,Tunis,Technicien Réseau,"Python,React,SQL,Machine Learning,Linux",44,4146.841072129713
+13.350689621996633,Intermediate,Gabes,Ingénieur Logiciel,"Docker,React,SQL,Java",38,4531.702779009637
+9.774195785831246,Intermediate,Kef,Ingénieur Logiciel,"SQL,Java,Machine Learning",44,3830.0347465846767
+2.8017780472107985,Beginner,Kef,Ingénieur Logiciel,"Python,Java",36,2252.2232775618736
+6.948923582477305,Beginner,Sousse,Data Scientist,"Machine Learning,SQL,Java,Kubernetes",49,4639.088720152431
+7.023164934275085,Advanced,Monastir,Data Scientist,"Docker,React,Linux,Java,Kubernetes",42,4829.848797813942
+0.5441875940335901,Beginner,Remote,Technicien Réseau,"Docker,Linux,SQL",42,2134.658768514986
+11.642228404338159,Intermediate,Remote,Ingénieur Logiciel,"React,Java,Kubernetes,Linux,Python",30,4090.826880767836
+3.5185374487837717,Beginner,Nabeul,Chef de Projet,"Python,SQL",49,3857.6548277405527
+8.75666278761665,Intermediate,Tunis,Technicien Réseau,"Kubernetes,SQL,Python,Java",33,4319.91348494845
+1.9286771308225414,Beginner,Tunis,Ingénieur Logiciel,"Python,SQL",33,2513.8165111541157
+11.29395257272963,Intermediate,Nabeul,Ingénieur Logiciel,"Linux,Java,Docker",33,4869.842082823093
+2.464942270300856,Beginner,Bizerte,Data Scientist,"Java,Docker,SQL,Kubernetes",42,3127.2226022905293
+0.05448403307587739,Advanced,Remote,Technicien Réseau,"Machine Learning,Python,React,Java",31,2418.611962025435
+11.789536484812269,Beginner,Bizerte,Ingénieur Logiciel,"Docker,Java,React,Kubernetes,SQL",44,4742.048062013059
+0.4786280527423763,Intermediate,Kef,Ingénieur Logiciel,"SQL,Linux,Machine Learning,Docker",33,2529.037742078431
+1.9232681669251943,Advanced,Kef,Technicien Réseau,"Linux,React",35,2612.750601853946
+14.984861915941428,Intermediate,Sfax,Chef de Projet,"SQL,Machine Learning,Linux,Docker,Kubernetes",32,6755.732338547915
+15.039747700519948,Intermediate,Tunis,Technicien Réseau,"SQL,Linux,Python",36,5766.635554793261
+4.259986455276319,Intermediate,Sfax,Technicien Réseau,"Docker,SQL,Machine Learning",35,3568.5571580361548
+4.996150401952623,Intermediate,Monastir,Chef de Projet,"Python,React",32,3706.2737673591378
+2.975073318114288,Intermediate,Nabeul,Technicien Réseau,"Kubernetes,Linux,Machine Learning",33,2952.186104948471
+1.7351138937309851,Expert,Nabeul,Ingénieur Logiciel,"Java,SQL,Linux,Python",39,4455.236745089607
+1.9924316727519487,Intermediate,Kef,Technicien Réseau,"SQL,Docker,Python",38,2455.073514081505
+5.581617899642532,Intermediate,Remote,Chef de Projet,"Kubernetes,Docker",35,3208.1333880122274
+6.979189368315386,Advanced,Bizerte,Analyste Données,"Python,Machine Learning,Docker,React,Java",49,4289.094574020219
+7.840977081105743,Intermediate,Tunis,Technicien Réseau,"Java,Linux,Machine Learning",40,4487.10912369335
+7.794155159243709,Beginner,Sfax,Data Scientist,"Docker,Machine Learning,Python",36,4199.582018856169
+0.4781847327015972,Intermediate,Bizerte,Ingénieur Logiciel,"SQL,Docker",47,2594.802033735529
+3.41024798286678,Expert,Sfax,Ingénieur Logiciel,"Python,SQL,Machine Learning",33,4701.853904772678
+0.29640853224368896,Beginner,Monastir,Data Scientist,"Linux,React,Python,Kubernetes",34,2839.3923098289547
+3.9873065784769643,Intermediate,Monastir,Data Scientist,"Machine Learning,Python,Docker,Java",33,3898.7287658724454
+2.912776374936418,Beginner,Bizerte,Technicien Réseau,"SQL,Linux,Java",33,2274.377988926121
+10.933093321104007,Intermediate,Bizerte,Data Scientist,"Java,Kubernetes,Machine Learning",42,4898.710678366044
+2.1609580973394253,Beginner,Bizerte,Analyste Données,"Docker,Kubernetes,Machine Learning,Python",45,2553.711091204705
+0.6225298877622544,Intermediate,Sfax,Chef de Projet,"Machine Learning,Kubernetes,Docker",43,3831.486795966157
+0.7715382727105968,Advanced,Sousse,Data Scientist,"Java,Machine Learning,Docker,React",40,4090.434638276198
+7.167152735395469,Intermediate,Bizerte,Data Scientist,"Machine Learning,Python,SQL,React,Java",31,3689.26898723549
+4.814528398740175,Intermediate,Remote,Analyste Données,"Docker,Python,Machine Learning,Linux",43,3077.3962714747126
+0.5330435612269272,Advanced,Tunis,Ingénieur Logiciel,"Machine Learning,Kubernetes,Java,SQL,Docker",36,3846.9554014432147
+0.4392776083430254,Advanced,Tunis,Ingénieur Logiciel,"SQL,Kubernetes,Java,Machine Learning",40,3771.2665187151742
+6.036042358265499,Beginner,Sfax,Technicien Réseau,"Linux,Kubernetes,Java,React",33,3711.872563048632
+0.37773044762898567,Intermediate,Bizerte,Analyste Données,"Kubernetes,React,Docker,Machine Learning",36,2503.49480571207
+8.625929269042906,Beginner,Kef,Chef de Projet,"React,Kubernetes,Machine Learning,SQL,Java",45,4206.898134824239
+6.124998765650025,Expert,Nabeul,Chef de Projet,"Docker,Machine Learning,Kubernetes,Java,SQL",35,6272.046740805065
+0.4242437529015603,Advanced,Sousse,Analyste Données,"Machine Learning,Python",35,3095.271159674127
+0.44326933888903347,Intermediate,Remote,Chef de Projet,"Docker,Kubernetes,React,Python",31,2865.681394859005
+21.57729281029046,Advanced,Kef,Ingénieur Logiciel,"SQL,Linux,Java,Kubernetes,Python",37,6403.9967566440355
+2.344187912761448,Intermediate,Monastir,Chef de Projet,"Java,Linux,Kubernetes",36,3534.0424287380615
+2.3152763023765623,Intermediate,Kef,Chef de Projet,"Machine Learning,React,Linux,Java,Python",43,3356.1447559422827
+8.377877016413386,Beginner,Sfax,Analyste Données,"Python,React,Kubernetes,Linux",38,4303.642504464635
+14.710822689816219,Advanced,Sousse,Analyste Données,"Kubernetes,React",44,5858.945854740554
+21.34386969800992,Beginner,Gabes,Chef de Projet,"Kubernetes,Docker",47,5963.171666866276
+6.999496150581709,Advanced,Gabes,Data Scientist,"React,SQL,Linux,Kubernetes,Docker",41,4413.75820091697
+2.360104998095628,Advanced,Bizerte,Analyste Données,"Linux,React,Docker,Machine Learning",48,3393.2535850592676
+0.4359699684897863,Advanced,Bizerte,Technicien Réseau,"Java,React",42,2774.9279577271077
+7.506212702273128,Beginner,Sfax,Technicien Réseau,"Python,Java",36,3481.6490590796748
+4.086802037807465,Intermediate,Bizerte,Ingénieur Logiciel,"Linux,Machine Learning",39,2993.3676361892685
+2.7601656265248686,Intermediate,Nabeul,Chef de Projet,"Machine Learning,Java,SQL,Docker,React",39,4467.087043437515
+11.841188377390452,Intermediate,Sousse,Data Scientist,"SQL,Python,Java",31,5209.132010811277
+0.5894010398594012,Beginner,Sfax,Ingénieur Logiciel,"React,Java,Docker,Machine Learning",43,2989.9521627988797
+3.3925255468647713,Advanced,Tunis,Chef de Projet,"Machine Learning,Linux,SQL",42,4920.5032078866225
+0.057092947162708345,Intermediate,Monastir,Analyste Données,"Linux,SQL,React,Docker",35,2682.8798925875512
+3.1617718479146313,Intermediate,Sfax,Technicien Réseau,"SQL,Java,Python,Docker",38,3422.5475130339996
+0.2897521553296289,Intermediate,Sfax,Data Scientist,"SQL,Kubernetes",42,3340.3172275440434
+0.6324549796558561,Intermediate,Gabes,Technicien Réseau,"Python,Docker",38,2187.6238531466583
+0.6251311600372813,Intermediate,Remote,Analyste Données,"Docker,Kubernetes,React,Python,SQL",42,2439.254533775393
+5.237841932034858,Intermediate,Remote,Chef de Projet,"Machine Learning,Java,Docker",34,3344.3552030428505
+6.852988587982364,Advanced,Nabeul,Analyste Données,"Machine Learning,Python,Linux,React",43,4794.117432743636
+4.377768886014342,Intermediate,Tunis,Analyste Données,"Java,React,Docker",34,3757.165937818894
+16.373601045511887,Expert,Gabes,Technicien Réseau,"Machine Learning,Python,Kubernetes,Docker,Linux",38,6293.920749748173
+2.348982889601336,Advanced,Tunis,Data Scientist,"Kubernetes,Docker",37,4079.6324780148884
+1.6823457871027936,Beginner,Nabeul,Analyste Données,"Kubernetes,React",36,2689.924216007204
+10.147512690851148,Advanced,Remote,Technicien Réseau,"Linux,SQL,Python,Docker",37,3919.7544871248765
+1.265410338659267,Beginner,Sfax,Data Scientist,"Linux,Machine Learning,Java,Docker,React",32,3573.8211611584543
+16.514350531259552,Advanced,Bizerte,Chef de Projet,"Java,Kubernetes,Docker",44,6523.986520468676
+0.061144721794846535,Intermediate,Bizerte,Chef de Projet,"Docker,Linux,Java",37,2830.1273266060575
+17.51263461439741,Advanced,Kef,Ingénieur Logiciel,"Docker,Kubernetes,Linux",30,5295.347144792154
+0.22059499309250946,Advanced,Monastir,Technicien Réseau,"Java,Docker",36,2373.8684020714873
+11.088606145800044,Advanced,Nabeul,Data Scientist,"SQL,React,Machine Learning",48,5879.472265411783
+3.750716251746952,Advanced,Monastir,Analyste Données,"Python,Java",31,3106.633749304069
+24.784143039630166,Intermediate,Monastir,Chef de Projet,"SQL,Linux",43,7500.0
+0.3833068797722747,Beginner,Remote,Data Scientist,"Machine Learning,Docker",47,2434.6778527429215
+4.035548318666744,Intermediate,Remote,Technicien Réseau,"Python,Docker,Kubernetes,Machine Learning,Linux",44,3080.451543095402
+17.417876106280026,Beginner,Sfax,Ingénieur Logiciel,"Docker,Kubernetes,Linux,Python,Java",43,6419.934940063015
+3.70221966590522,Intermediate,Gabes,Chef de Projet,"Docker,React,Machine Learning",48,3688.450276015168
+4.963141451905937,Intermediate,Remote,Data Scientist,"SQL,Java,Docker",48,3456.945859021858
+5.949506190583871,Expert,Bizerte,Data Scientist,"Kubernetes,Java,SQL,Machine Learning,Python",46,5382.791554800352
+3.0306387783847546,Intermediate,Monastir,Data Scientist,"Docker,Kubernetes,React,Linux,Machine Learning",48,4140.8651210077205
+4.938370865040111,Advanced,Kef,Technicien Réseau,"SQL,Linux,Machine Learning,Kubernetes",45,3544.6936719986875
+4.389129309028778,Beginner,Sousse,Technicien Réseau,"Kubernetes,Java,Linux",49,3288.5331220136604
+11.571163847413237,Advanced,Nabeul,Technicien Réseau,"Java,Machine Learning",48,5072.359707581796
+0.23255730871740488,Advanced,Kef,Analyste Données,"React,Java",30,2278.0638843027045
+1.6492136294937922,Intermediate,Bizerte,Data Scientist,"Linux,React,Machine Learning",48,3427.3767068195934
+15.019980029304655,Intermediate,Remote,Chef de Projet,"React,Linux,Kubernetes,Machine Learning,SQL",36,5100.685161396341
+11.04837914226743,Advanced,Gabes,Technicien Réseau,"Kubernetes,SQL",40,3983.48992120703
+3.0408763097981,Beginner,Sfax,Technicien Réseau,"Kubernetes,SQL,Docker",34,2871.2445293523247
+4.839665143694886,Intermediate,Sousse,Data Scientist,"React,Java,Docker,Kubernetes",46,4346.965877944931
+1.6243670994756507,Intermediate,Tunis,Technicien Réseau,"Java,React,Machine Learning,Python",40,3251.391176019667
+1.0420208071803225,Beginner,Kef,Analyste Données,"Python,React,SQL",37,2351.9112500205556
+3.1152929940204936,Intermediate,Gabes,Analyste Données,"Python,SQL,Java,React,Kubernetes",39,3223.1799740653732
+2.179767673083667,Beginner,Tunis,Technicien Réseau,"Java,Python,Linux",41,2891.154358787481
+4.381218530033215,Beginner,Sousse,Data Scientist,"Linux,SQL,Kubernetes",39,3730.762642846595
+0.40461142216592394,Beginner,Nabeul,Data Scientist,"Java,Docker,React",42,2873.1167402586884
+18.324800612612837,Expert,Nabeul,Data Scientist,"Machine Learning,Java,React,Python",47,7500.0
+21.419327877762694,Intermediate,Monastir,Ingénieur Logiciel,"Kubernetes,SQL",39,6141.538493728184
+5.989319409563947,Expert,Sousse,Technicien Réseau,"React,Linux",48,4739.289622822164
+3.8403921720604495,Intermediate,Sousse,Data Scientist,"React,Python,Kubernetes,Linux,Machine Learning",49,4171.991118841727
+1.8518965077718,Intermediate,Tunis,Analyste Données,"Linux,React,Machine Learning,Java",46,3431.367565371635
+8.404535837439983,Intermediate,Gabes,Chef de Projet,"Docker,SQL,React",49,4515.512224442054
+5.771647918244078,Intermediate,Tunis,Chef de Projet,"Docker,Kubernetes",45,4884.630054766892
+0.8873682705024419,Beginner,Sfax,Data Scientist,"Python,React,Docker",34,2961.9263916283803
+12.091505459995638,Intermediate,Nabeul,Chef de Projet,"Python,Java,Docker",32,5809.9262208164655
+8.644972556836358,Beginner,Nabeul,Chef de Projet,"Linux,Kubernetes,React,Java,Machine Learning",44,5225.793485389713
+14.958692625167181,Intermediate,Monastir,Ingénieur Logiciel,"Python,Machine Learning,Linux,Java,React",31,5422.938289101731
+6.4680200209806715,Intermediate,Sfax,Analyste Données,"Kubernetes,SQL,Python,Machine Learning",42,4224.560321681619
+4.752020097956864,Beginner,Nabeul,Analyste Données,"Java,Linux",37,3169.7119425671845
+2.7085125329655666,Beginner,Tunis,Ingénieur Logiciel,"Kubernetes,Java,React,Python",46,3425.5828400181776
+13.49509180773559,Advanced,Sfax,Ingénieur Logiciel,"React,Linux,Docker,Kubernetes,Java",33,6025.14650370438
+10.0519619002346,Intermediate,Tunis,Chef de Projet,"React,SQL,Kubernetes",48,5981.837797226536
+0.23136469326561393,Beginner,Nabeul,Technicien Réseau,"Machine Learning,Linux,React,Docker",38,2612.0022252523136
+0.13360408433255683,Expert,Nabeul,Chef de Projet,"Kubernetes,Java",44,4792.147906117419
+2.361738807916314,Beginner,Gabes,Ingénieur Logiciel,"SQL,React",38,2116.0133326943114
+8.31823861498043,Intermediate,Kef,Analyste Données,"Docker,React,Machine Learning,Linux,Python",38,4155.724704326147
+21.82137734110084,Expert,Kef,Chef de Projet,"Machine Learning,Java,React,Python,Docker",43,7500.0
+0.8150475496723985,Beginner,Monastir,Technicien Réseau,"Python,Docker,React",45,2421.619647440008
+4.508620651078679,Beginner,Tunis,Chef de Projet,"React,Kubernetes,Machine Learning",46,4256.077609132089
+2.3973684987904806,Beginner,Tunis,Data Scientist,"Python,Machine Learning",42,3642.500573928961
+17.51854277187981,Intermediate,Bizerte,Chef de Projet,"Python,Java",38,5995.537647145447
+9.229566037168173,Beginner,Sfax,Ingénieur Logiciel,"SQL,Python",44,4050.925087210031
+9.110950232349285,Intermediate,Remote,Analyste Données,"Java,SQL,Docker,React",36,3590.0112595009487
+3.162077855698868,Beginner,Kef,Analyste Données,"Java,SQL,React,Linux",30,2481.2382052716343
+2.679174681636745,Intermediate,Nabeul,Ingénieur Logiciel,"Python,SQL,Kubernetes,React",30,3640.004032331077
+1.596944460750306,Expert,Monastir,Data Scientist,"SQL,Python,Java,Docker,Linux",34,4868.373649848922
+0.29013481922418105,Advanced,Remote,Ingénieur Logiciel,"SQL,Docker,Kubernetes,Python,Java",38,2679.6165983433702
+10.00213070001655,Intermediate,Sousse,Chef de Projet,"Java,Machine Learning,React,Kubernetes,SQL",41,5473.405073149378
+8.380587196249614,Intermediate,Monastir,Ingénieur Logiciel,"Machine Learning,Docker,React,Python",35,4031.808747364289
+25.0,Intermediate,Sousse,Ingénieur Logiciel,"Java,Python,React",42,7500.0
+25.0,Intermediate,Sousse,Data Scientist,"Machine Learning,SQL,Java",37,7500.0
+4.05325796320697,Intermediate,Sousse,Chef de Projet,"Linux,React",44,4070.294702589607
+7.326415451031304,Beginner,Gabes,Technicien Réseau,"Machine Learning,Kubernetes,Docker,Linux,Java",35,3303.26789669239
+14.480858414372179,Advanced,Gabes,Technicien Réseau,"React,SQL,Machine Learning,Python,Docker",35,4940.338951194958
+9.473860073546229,Intermediate,Gabes,Analyste Données,"Docker,Linux,Machine Learning,SQL",33,3877.5301160160743
+1.4207622229057326,Beginner,Remote,Ingénieur Logiciel,"Java,Kubernetes,React,Docker",40,2268.542467507612
+2.9941341369993224,Intermediate,Monastir,Analyste Données,"React,Docker,Java,Kubernetes",47,3195.384306302294
+0.6914817215654433,Intermediate,Monastir,Data Scientist,"Docker,React,SQL,Java",32,3205.324627429736
+15.401118932208544,Advanced,Nabeul,Technicien Réseau,"Linux,Java,Docker,SQL,Machine Learning",32,6251.3070973695485
+4.659238512943091,Advanced,Gabes,Ingénieur Logiciel,"SQL,Java",41,3206.0685801834247
+1.2980186270924186,Advanced,Nabeul,Data Scientist,"Docker,Python",35,3953.821727525693
+5.569147695866251,Beginner,Sfax,Data Scientist,"Machine Learning,Linux,Docker",35,3864.0744329440195
+4.813352173715359,Intermediate,Nabeul,Ingénieur Logiciel,"SQL,Kubernetes,Machine Learning,Linux",37,3983.8772954057936
+2.2171023114855304,Intermediate,Remote,Data Scientist,"SQL,React,Java,Python",44,3058.976669065716
+0.6026956069923464,Beginner,Kef,Ingénieur Logiciel,"Docker,React,Linux",47,2515.232311367353
+5.567206417595511,Intermediate,Sousse,Ingénieur Logiciel,"Machine Learning,SQL",49,3778.8634652020387
+3.6730521209301887,Advanced,Gabes,Chef de Projet,"Machine Learning,Docker,Java,SQL,React",45,4000.7773016402766
+7.399035404802575,Beginner,Kef,Analyste Données,"Python,Kubernetes",35,3081.802219179191
+3.6715493021175756,Intermediate,Nabeul,Data Scientist,"Kubernetes,Docker",46,4186.912356001637
+9.55885055654242,Beginner,Sousse,Data Scientist,"Kubernetes,Machine Learning",38,4366.375407014901
+4.013770595107438,Beginner,Monastir,Chef de Projet,"Machine Learning,SQL,Kubernetes,Java,React",48,4168.659442375781
+4.115572904900736,Beginner,Tunis,Chef de Projet,"Docker,SQL,React",47,4367.9716942312525
+10.463793216148858,Expert,Sousse,Chef de Projet,"SQL,Kubernetes",34,6241.506806306675
+2.5832365699405853,Advanced,Remote,Technicien Réseau,"Java,Docker,React,Linux",35,2933.2593399956845
+0.7194397769514947,Expert,Remote,Technicien Réseau,"Linux,Docker,Java",41,3124.0197770431528
+0.14602510716047343,Intermediate,Nabeul,Technicien Réseau,"Python,Machine Learning,SQL,React",40,2889.971859107261
+7.035287263312928,Beginner,Sfax,Ingénieur Logiciel,"Docker,Kubernetes,React,Machine Learning",45,4213.5351220504845
+4.841994835303398,Intermediate,Remote,Data Scientist,"Kubernetes,React",49,3341.7163682526384
+6.088326738989382,Intermediate,Remote,Analyste Données,"Docker,Machine Learning",46,2972.7585758637665
+1.1974074674672173,Advanced,Nabeul,Ingénieur Logiciel,"React,Python,SQL",49,4017.9741920097053
+0.7330627561413933,Beginner,Sousse,Data Scientist,"SQL,Machine Learning,Docker",38,3123.5230280227065
+0.07325738132834392,Intermediate,Sfax,Data Scientist,"Python,React,Java,Machine Learning",30,3431.884435961768
+2.158436307575346,Beginner,Kef,Chef de Projet,"React,Machine Learning,Java,SQL",32,3142.013568188275
+4.456986878324723,Intermediate,Tunis,Chef de Projet,"Docker,Java,React",38,4566.430515056387
+2.4899093378057535,Advanced,Gabes,Ingénieur Logiciel,"Python,SQL",48,3084.1308423865944
+2.876597814142156,Intermediate,Monastir,Chef de Projet,"SQL,Python,Java,Kubernetes",42,3791.5196532149134
+11.725307614907209,Intermediate,Remote,Data Scientist,"Kubernetes,Java,React,Python",43,4414.632208728746
+2.1405130721255587,Intermediate,Nabeul,Chef de Projet,"Java,Docker,Machine Learning,Linux",49,4209.009510538575
+3.6076251403616055,Intermediate,Gabes,Technicien Réseau,"Python,Linux",48,2697.2474104506227
+7.654358688598508,Advanced,Monastir,Chef de Projet,"Docker,Linux,Python,Java,SQL",36,5214.260261018705
+2.525400656495899,Advanced,Monastir,Data Scientist,"Linux,Kubernetes",33,3692.037880646181
+4.865452376765427,Expert,Kef,Ingénieur Logiciel,"React,Java",41,4196.214876163257
+9.915703218421534,Advanced,Kef,Analyste Données,"Java,SQL,Linux,Python",43,4287.983501429873
+14.93095207687334,Intermediate,Kef,Chef de Projet,"Machine Learning,React,Kubernetes,SQL,Docker",31,5463.87567226421
+0.7954093965741799,Intermediate,Bizerte,Data Scientist,"React,SQL,Docker,Python",30,3111.6127504720894
+13.058313815210393,Intermediate,Bizerte,Analyste Données,"React,Docker,Java",47,4730.710156808473
+3.387513904977653,Intermediate,Monastir,Analyste Données,"Python,Kubernetes",49,3343.325520660448
+1.4936772717569788,Advanced,Kef,Technicien Réseau,"SQL,Python,Kubernetes",37,2839.077284297123
+3.0729348368534875,Beginner,Remote,Analyste Données,"Linux,Kubernetes",32,1978.1309569458497
+19.56826548790296,Advanced,Gabes,Data Scientist,"Kubernetes,Java,Machine Learning",35,6385.16345049394
+3.392456463336799,Intermediate,Gabes,Data Scientist,"Kubernetes,React,Machine Learning,Java",42,3343.5207287759117
+1.9930801605024988,Intermediate,Bizerte,Chef de Projet,"Docker,Kubernetes,Java",38,3479.8132256272906
+5.017431369788298,Intermediate,Monastir,Chef de Projet,"React,Machine Learning",38,4021.1594525998507
+1.3731423385780148,Advanced,Nabeul,Chef de Projet,"Machine Learning,React,SQL,Kubernetes",49,4481.365248135356
+0.3944765248811752,Intermediate,Sousse,Analyste Données,"Java,Python,Linux,Docker",38,2934.677136445475
+0.6898760985620793,Intermediate,Sousse,Analyste Données,"Linux,Python",44,2884.5911845441487
+0.6850921203350356,Beginner,Bizerte,Technicien Réseau,"React,Kubernetes,Java,Linux,Machine Learning",42,2324.2777254657653
+0.8237995077833649,Intermediate,Nabeul,Chef de Projet,"SQL,Kubernetes",45,3681.1355363724897
+0.7473003303375827,Beginner,Bizerte,Ingénieur Logiciel,"Python,Machine Learning,Kubernetes",31,2297.3696875361065
+5.120420255379033,Advanced,Sousse,Technicien Réseau,"React,Java,Kubernetes,Machine Learning,Linux",43,4409.2633708333415
+1.0037317851724081,Intermediate,Nabeul,Ingénieur Logiciel,"Kubernetes,React,Machine Learning",35,2939.5367874524118
+2.120696578974026,Intermediate,Kef,Analyste Données,"Kubernetes,Machine Learning,Docker,SQL",31,2816.595490261792
+11.354870625641789,Beginner,Monastir,Technicien Réseau,"Docker,React,Java",37,4213.488171173165
+3.211905708232968,Beginner,Gabes,Technicien Réseau,"React,Machine Learning,Docker",33,2323.512281138832
+5.506445418261903,Advanced,Sfax,Data Scientist,"Python,Linux",43,4645.981704868525
+0.9456425855660824,Beginner,Monastir,Analyste Données,"Kubernetes,Java",40,2166.02427574317
+1.0677549049754753,Beginner,Kef,Analyste Données,"Machine Learning,Linux,Java,SQL",43,2462.9947495771607
+0.20863606358782652,Beginner,Sousse,Technicien Réseau,"Python,Docker",41,2332.3775673687724
+0.9252367203279044,Expert,Kef,Analyste Données,"Python,Java",45,3494.6119105890175
+1.6327405931557277,Advanced,Bizerte,Technicien Réseau,"SQL,Java",35,2624.5225260756924
+0.9740590874155397,Intermediate,Nabeul,Data Scientist,"React,Linux",49,3663.7265623261496
+0.46442953930183783,Intermediate,Gabes,Technicien Réseau,"SQL,Java,Docker,Linux",30,2249.3571547084925
+0.6427810674667627,Intermediate,Remote,Analyste Données,"SQL,Java,Machine Learning,Kubernetes,React",41,2633.6159893773274
+3.0881467168268957,Advanced,Bizerte,Analyste Données,"Machine Learning,Docker,Linux,Kubernetes,Python",36,3488.393628469608
+1.155461031725483,Intermediate,Monastir,Technicien Réseau,"Docker,Java,Kubernetes",37,2536.6126908726474
+2.2649055775545928,Beginner,Bizerte,Technicien Réseau,"Docker,Python",38,2157.585993911347
+3.500025923571652,Beginner,Monastir,Technicien Réseau,"Java,Machine Learning,React",31,2618.7892694452016
+5.862287170062711,Beginner,Remote,Chef de Projet,"Python,Machine Learning",46,3289.089115101186
+0.20052865050007712,Intermediate,Tunis,Analyste Données,"Java,Docker,React",49,3305.594533334277
+8.032471219130597,Advanced,Gabes,Analyste Données,"Python,Linux,SQL,React,Java",42,4171.287899222817
+4.942968451836482,Intermediate,Sfax,Chef de Projet,"Python,Docker",34,4259.1790543742045
+0.4264771518816713,Beginner,Kef,Technicien Réseau,"Kubernetes,SQL,Linux,React,Machine Learning",39,2334.2312426939525
+10.340673492440454,Beginner,Tunis,Data Scientist,"React,Python",41,5106.837818123945
+12.68346773189464,Expert,Bizerte,Technicien Réseau,"Kubernetes,SQL,React,Docker",46,5928.360472534352
+0.31511413780081704,Intermediate,Kef,Technicien Réseau,"SQL,React,Linux,Java",35,2238.4951012425877
+1.6208842156432541,Advanced,Tunis,Chef de Projet,"React,SQL",32,4233.666055017971
+8.204675916133212,Intermediate,Nabeul,Analyste Données,"React,Machine Learning",44,4359.748994647189
+6.896786201071542,Intermediate,Nabeul,Technicien Réseau,"React,Docker,Java,Kubernetes",36,3970.7899436092143
+1.0198981603090025,Beginner,Kef,Analyste Données,"SQL,Java,Linux",35,1902.6473478417404
+1.1744951559076662,Beginner,Monastir,Ingénieur Logiciel,"Python,Docker",33,2051.0027112282232
+2.3139255501218488,Intermediate,Monastir,Analyste Données,"Linux,React,Kubernetes",48,2881.407711559455
+3.3133128233430718,Advanced,Bizerte,Data Scientist,"Linux,Kubernetes,Machine Learning,React",34,3886.172360362239
+4.81500917029276,Intermediate,Tunis,Data Scientist,"Linux,Docker,React",32,4222.4057139721335
+2.301562815001756,Intermediate,Tunis,Technicien Réseau,"Kubernetes,SQL,Java,Python",38,3396.424438510452
+3.104455546104588,Beginner,Kef,Analyste Données,"Docker,Kubernetes,Linux,React",35,2562.3716094442793
+6.8811447019492125,Expert,Sousse,Technicien Réseau,"Python,SQL",42,5020.974673281623
+0.18686476160739232,Advanced,Nabeul,Chef de Projet,"Docker,Linux,React,Java",49,4484.723099400331
+1.454683109411986,Intermediate,Tunis,Data Scientist,"Machine Learning,SQL,Kubernetes,Java",33,3801.5270471741396
+6.247459374780129,Expert,Kef,Technicien Réseau,"Machine Learning,Kubernetes,SQL",31,4093.550189174368
+11.278833771653067,Intermediate,Remote,Chef de Projet,"Java,React,Python,Kubernetes,SQL",33,4575.970372214739
+3.583895561042004,Intermediate,Sfax,Technicien Réseau,"React,Kubernetes,SQL,Java",37,3624.6238852616984
+3.7976475117653448,Advanced,Remote,Analyste Données,"Linux,Kubernetes,Docker",42,2887.4521022618396
+0.5668066927033169,Advanced,Gabes,Analyste Données,"SQL,Machine Learning,Kubernetes,Docker",39,2820.190113847442
+2.9657162304177542,Intermediate,Bizerte,Analyste Données,"Kubernetes,Java",47,3036.881031450866
+3.80303399527645,Beginner,Tunis,Analyste Données,"Linux,Docker,Machine Learning,React,Java",38,3814.018692950377
+1.3884640163032667,Intermediate,Gabes,Ingénieur Logiciel,"SQL,Java,React,Kubernetes",30,2598.3274367001227
+1.5683730593927192,Advanced,Gabes,Chef de Projet,"Kubernetes,Linux,React,Java",42,3668.2001862818074
+2.36832492401236,Beginner,Kef,Chef de Projet,"Machine Learning,SQL,Kubernetes,React",47,3495.4722746518473
+0.10137680375157257,Intermediate,Tunis,Analyste Données,"Linux,SQL,Java,Docker",44,3294.7240779501003
+1.9436238062806788,Intermediate,Sfax,Ingénieur Logiciel,"SQL,Kubernetes,Java,Linux,Machine Learning",31,3406.7171493343517
+1.1877846781181494,Intermediate,Kef,Analyste Données,"Java,Linux,SQL",40,2676.5811517956336
+1.9837461511599133,Intermediate,Kef,Ingénieur Logiciel,"Linux,Java,SQL,Docker,React",43,3063.4662564880723
+0.6378155164239063,Advanced,Bizerte,Analyste Données,"React,Linux,SQL",44,3138.2584370016602
+11.060399499715123,Beginner,Bizerte,Data Scientist,"SQL,Kubernetes,React",43,4614.912979956622
+4.501994069397799,Beginner,Nabeul,Data Scientist,"React,SQL,Kubernetes",45,3927.8534394846665
+5.683164789465158,Beginner,Nabeul,Technicien Réseau,"React,Java,Python,SQL",44,3892.995776047489
+7.783545161888956,Advanced,Monastir,Analyste Données,"Machine Learning,SQL",48,4048.3466424781063
+3.450182109244426,Intermediate,Sousse,Chef de Projet,"Linux,Java,React,Machine Learning,Kubernetes",38,4057.2978787851494
+0.45466047258727926,Intermediate,Tunis,Technicien Réseau,"Java,Docker,Kubernetes",34,2683.4391202175907
+3.851291816474113,Advanced,Tunis,Data Scientist,"Python,Linux,Kubernetes,Java,SQL",34,4870.311094108484
+4.419615289356868,Advanced,Gabes,Analyste Données,"Kubernetes,Java,Docker,Machine Learning",40,3550.976742068853
+6.841083244042046,Advanced,Tunis,Technicien Réseau,"Kubernetes,Linux,Docker,React,Machine Learning",49,5090.413262537183
+2.8251732469149102,Advanced,Tunis,Analyste Données,"Docker,React",33,3659.5127671607897
+0.6824233336465612,Intermediate,Sousse,Data Scientist,"Linux,SQL,Kubernetes",49,3484.6049256975957
+1.6688109013085195,Advanced,Nabeul,Technicien Réseau,"Machine Learning,Java,Kubernetes,React",47,3999.511564503734
+2.255574127373117,Intermediate,Nabeul,Data Scientist,"Kubernetes,Docker",32,3331.55999120199
+5.191123058109309,Advanced,Sfax,Ingénieur Logiciel,"Docker,Java",33,3802.845558434148
+4.2289086060070975,Advanced,Tunis,Data Scientist,"Docker,React,Python,Linux",43,5164.689199252531
+2.2010337982590307,Advanced,Sousse,Analyste Données,"Linux,React",36,3208.4418637485373
+21.53097886084906,Intermediate,Nabeul,Chef de Projet,"SQL,Python,Machine Learning",37,7500.0
+4.6541650423360466,Beginner,Sousse,Data Scientist,"React,SQL,Python,Kubernetes",45,3899.5586065256684
+1.3539726437839996,Intermediate,Remote,Chef de Projet,"React,Python,Machine Learning,Docker,Linux",49,3449.5973628508964
+0.5367150231244343,Expert,Tunis,Ingénieur Logiciel,"SQL,Docker,Python",44,4455.748692236393
+0.8294414629491293,Advanced,Sfax,Technicien Réseau,"Docker,Machine Learning,SQL,Kubernetes,React",36,3191.3118167848843
+1.4115342469757048,Beginner,Gabes,Technicien Réseau,"Machine Learning,SQL",46,2274.0377754295814
+0.8758243747714701,Beginner,Nabeul,Chef de Projet,"Kubernetes,Linux,React,Machine Learning,Python",41,3785.4098021829514
+1.032458727272902,Beginner,Remote,Technicien Réseau,"Linux,Machine Learning,React,Kubernetes",47,2347.5760921072556
+1.6780292410772326,Advanced,Sousse,Data Scientist,"Linux,Machine Learning,React",43,4129.710589810417
+0.952012168314435,Advanced,Bizerte,Chef de Projet,"Kubernetes,Linux,Python,React,Docker",44,3867.663877588399
+11.353757246779576,Beginner,Kef,Analyste Données,"Linux,React,SQL",44,3919.2439075855123
+0.4181785629600008,Intermediate,Tunis,Data Scientist,"Docker,SQL",34,3336.2880529739487
+3.7170617505635133,Advanced,Tunis,Data Scientist,"Kubernetes,SQL,Linux,Machine Learning,React",45,5134.58093362306
+2.6415277824465115,Advanced,Remote,Data Scientist,"Docker,Machine Learning",34,3041.346805306859
+20.1932108300796,Intermediate,Sousse,Analyste Données,"Docker,Linux,Java,Machine Learning,Kubernetes",31,6575.554880328485
+0.5941367284870245,Intermediate,Monastir,Ingénieur Logiciel,"React,Linux,Kubernetes,Machine Learning,Java",49,3357.4992080728284
+2.5362899687121523,Intermediate,Tunis,Technicien Réseau,"React,Linux,Java,Python",38,3400.75738408797
+17.445298320633576,Intermediate,Monastir,Chef de Projet,"Kubernetes,Linux,Java",38,6347.003608208834
+10.031220309840773,Intermediate,Bizerte,Ingénieur Logiciel,"Java,SQL",33,3928.209059915817
+8.493315170180898,Intermediate,Remote,Chef de Projet,"Linux,Python,Kubernetes",44,3954.8259316273848
+1.4913754176675231,Advanced,Sousse,Technicien Réseau,"SQL,React,Kubernetes,Docker,Linux",40,3603.4745645930584
+0.9369976639324378,Intermediate,Sousse,Analyste Données,"Kubernetes,SQL,Linux,Machine Learning",30,2655.06792191925
+5.5227979934089175,Advanced,Kef,Data Scientist,"Machine Learning,React",47,3988.6855229186554
+13.251925474799776,Beginner,Nabeul,Data Scientist,"Python,Linux",30,5284.178281993352
+4.068252109523711,Intermediate,Nabeul,Analyste Données,"Docker,Machine Learning,Python,Java",37,3848.8044120233494
+4.238637807292933,Beginner,Gabes,Ingénieur Logiciel,"SQL,Machine Learning",45,2600.029319662504
+1.642375154053254,Beginner,Sfax,Ingénieur Logiciel,"Machine Learning,Python,Linux,React,SQL",47,3304.7355404526484
+7.337368792060443,Advanced,Remote,Chef de Projet,"React,Java,Machine Learning,Linux,SQL",38,4424.676246547676
+1.0353899107303541,Expert,Bizerte,Analyste Données,"SQL,Machine Learning,Kubernetes,Docker",41,3876.7552860797314
+1.955439065596163,Beginner,Sousse,Ingénieur Logiciel,"React,Java",48,2588.47312357701
+2.7707227503491527,Intermediate,Kef,Analyste Données,"SQL,Python",47,2683.7236592094796
+3.5424248132234926,Advanced,Monastir,Technicien Réseau,"Machine Learning,SQL,React",34,3359.7880478318793
+1.3880629178480293,Beginner,Remote,Data Scientist,"Docker,Python,Java,React",31,2635.6060301640355
+0.6099163607206772,Intermediate,Gabes,Data Scientist,"Docker,React,Linux,Python",36,3100.785092171219
+4.715998287146783,Advanced,Remote,Data Scientist,"Docker,Kubernetes,React,Machine Learning",39,3736.642307617147
+1.7028168421827088,Intermediate,Gabes,Analyste Données,"React,Docker",44,2599.665821285503
+4.352265341462218,Beginner,Sousse,Analyste Données,"Docker,SQL,Python,Machine Learning,Java",36,3533.62380116362
+0.838323763853399,Intermediate,Sfax,Chef de Projet,"Java,Linux,SQL",34,3348.774584580417
+3.2806068901426375,Advanced,Gabes,Data Scientist,"Java,Python,SQL,Machine Learning",44,3685.845160499202
+3.8027362406453893,Intermediate,Sousse,Chef de Projet,"React,Docker,Linux,Kubernetes,Machine Learning",49,4601.731022997465
+0.26607325728560666,Beginner,Sousse,Data Scientist,"SQL,Java,Docker",49,3308.7362389738164
+2.0519180069021163,Advanced,Sfax,Chef de Projet,"Java,Machine Learning,Linux,React,Docker",44,4884.753666549461
+0.721746634159658,Beginner,Nabeul,Chef de Projet,"Python,Machine Learning",39,3228.0755464216945
+0.3273612938626244,Advanced,Remote,Technicien Réseau,"SQL,Kubernetes,React,Python,Linux",43,2746.537767543083
+23.006006556976622,Beginner,Tunis,Chef de Projet,"React,Linux",39,7500.0
+1.9456501125971013,Expert,Tunis,Analyste Données,"Java,SQL,Linux",46,4809.026937797605
+8.300353068849493,Intermediate,Monastir,Chef de Projet,"Linux,Python,React,Kubernetes",43,4791.239057827773
+1.469444171467007,Intermediate,Monastir,Data Scientist,"React,Kubernetes",31,2880.528696852297
+5.720706755101758,Beginner,Tunis,Chef de Projet,"SQL,React,Linux,Python",45,4959.551989068158
+7.140331114141043,Intermediate,Bizerte,Ingénieur Logiciel,"React,Machine Learning,SQL,Kubernetes",42,3756.9560124208747
+4.527232970845699,Advanced,Tunis,Data Scientist,"Kubernetes,Machine Learning,Docker,SQL",38,4926.782488598081
+3.1892832202263586,Expert,Monastir,Ingénieur Logiciel,"Docker,SQL",36,4212.166142086051
+2.6537890675268887,Intermediate,Kef,Data Scientist,"Machine Learning,Java",45,2994.1685982999884
+2.145216508519874,Intermediate,Monastir,Analyste Données,"Python,Machine Learning,Docker,Java,React",39,3264.9298932336246
+13.262780241103904,Advanced,Bizerte,Analyste Données,"Docker,Kubernetes",38,4889.705765922517
+8.87803535570899,Advanced,Remote,Analyste Données,"React,Kubernetes,Python,SQL,Linux",36,3959.8500353847135
+16.76588194707846,Intermediate,Tunis,Ingénieur Logiciel,"Linux,Docker",45,6341.6275920629605
+0.6636427091805277,Intermediate,Sfax,Technicien Réseau,"SQL,Python,Machine Learning",38,2657.669885945146
+6.562756817302537,Intermediate,Kef,Data Scientist,"Kubernetes,Docker,Java,SQL,Machine Learning",46,4296.649531739975
+13.930636326306203,Intermediate,Sousse,Analyste Données,"Linux,Machine Learning,SQL",49,5500.016217522836
+0.9997790485039884,Beginner,Bizerte,Data Scientist,"Docker,Linux,Java,SQL,React",36,2852.3777766534186
+0.34405158736248437,Intermediate,Monastir,Ingénieur Logiciel,"Python,Kubernetes",40,2571.3290703641733
+6.756965765943111,Intermediate,Sfax,Technicien Réseau,"Kubernetes,Java,React,Python,Linux",37,4248.619516754782
+4.272135720993349,Advanced,Gabes,Ingénieur Logiciel,"Kubernetes,SQL",36,2918.363701118459
+9.22038570660739,Beginner,Nabeul,Data Scientist,"SQL,Kubernetes,Linux",48,5107.9548938121225
+0.752791232070963,Intermediate,Tunis,Technicien Réseau,"Kubernetes,Java,React",49,3048.1243916929056
+7.930250555159341,Intermediate,Nabeul,Technicien Réseau,"Docker,Python,Java,React,Kubernetes",41,4793.403606185946
+1.1258988653351147,Intermediate,Bizerte,Ingénieur Logiciel,"Docker,Linux,React,Kubernetes",36,2856.179321783363
+0.89357599482759,Beginner,Gabes,Analyste Données,"React,Java,Machine Learning",37,2013.2994915207776
+0.8972232827997535,Intermediate,Gabes,Data Scientist,"Machine Learning,Kubernetes,Docker",36,2768.3561798245414
+8.425516412820043,Intermediate,Gabes,Chef de Projet,"Linux,Docker,Python",35,4247.918412063318
+5.4710681950798445,Intermediate,Sousse,Chef de Projet,"Kubernetes,SQL,Linux",38,4317.793101248266
+3.701879781730222,Intermediate,Bizerte,Ingénieur Logiciel,"Machine Learning,React",42,3146.7556386144797
+2.2223070083903407,Intermediate,Remote,Data Scientist,"React,Machine Learning,Kubernetes,Python",36,2922.104635823991
+10.486013336471663,Advanced,Nabeul,Data Scientist,"Kubernetes,SQL,React,Java",37,5877.7430138681675
+2.491563748487225,Intermediate,Remote,Ingénieur Logiciel,"Docker,React,SQL,Kubernetes,Java",46,3077.6269915007
+8.480413314240348,Advanced,Sfax,Data Scientist,"SQL,Java,Docker,Linux",46,5766.644479836733
+2.891374405569402,Intermediate,Kef,Analyste Données,"Kubernetes,Python,SQL",45,2755.2262923695234
+2.3655978290886854,Beginner,Kef,Ingénieur Logiciel,"SQL,Python,Docker,Java",31,2495.754354122973
+3.1058052994980128,Beginner,Remote,Analyste Données,"Linux,Kubernetes,Docker,Machine Learning,React",37,2622.253119492517
+1.7932263771532102,Intermediate,Tunis,Data Scientist,"Machine Learning,SQL",46,3706.570020632765
+6.883886564684697,Advanced,Sfax,Ingénieur Logiciel,"SQL,Linux,React,Docker,Java",42,4855.615466689307
+3.49301407847798,Advanced,Bizerte,Data Scientist,"React,Java",47,3594.5357534896857
+1.3212126549853263,Advanced,Monastir,Ingénieur Logiciel,"Java,Python",39,3063.447816970108
+11.491699247752917,Intermediate,Kef,Data Scientist,"Kubernetes,Python,Machine Learning,React",31,4503.649170677442
+2.4216587117935564,Intermediate,Monastir,Analyste Données,"Python,Docker,Linux,Machine Learning",31,3035.262338585928
+3.9214119108888172,Beginner,Sfax,Analyste Données,"Python,React,Java,Machine Learning",43,3586.8807222869295
+11.847478043548133,Intermediate,Nabeul,Data Scientist,"Java,Python,Machine Learning,SQL,Kubernetes",45,6005.654700079629
+4.893996519286653,Intermediate,Kef,Ingénieur Logiciel,"Linux,Python,Kubernetes",36,3049.3332624582154
+0.6215730792888987,Beginner,Tunis,Chef de Projet,"Kubernetes,Linux,Python",41,3441.7777642249207
+14.053083419661046,Beginner,Tunis,Analyste Données,"Linux,Machine Learning",43,5370.302974668131
+4.940384644674131,Intermediate,Gabes,Analyste Données,"Linux,Python,SQL,Machine Learning",33,3218.755385121417
+2.039131577756547,Advanced,Sousse,Chef de Projet,"Linux,SQL,Python,Machine Learning",33,4211.947071461829
+0.749884103082129,Expert,Sfax,Data Scientist,"Kubernetes,Machine Learning,Python",47,5104.254472334814
+7.9000069784013345,Advanced,Kef,Ingénieur Logiciel,"Machine Learning,Kubernetes,Docker",32,3934.077453748144
+4.838877537814262,Intermediate,Sousse,Data Scientist,"Linux,Machine Learning,Kubernetes",30,4028.0863043824493
+3.812069290245141,Intermediate,Sfax,Technicien Réseau,"Kubernetes,Python,Java,Machine Learning,SQL",46,3879.240723870816
+11.216516652682227,Intermediate,Remote,Analyste Données,"Machine Learning,SQL,Java",36,3728.923636837876
+7.769950068480361,Advanced,Bizerte,Technicien Réseau,"Java,Docker,Python",45,4141.887208140012
+0.8224566006317044,Beginner,Bizerte,Analyste Données,"React,Docker,Kubernetes",34,2154.8779091924857
+1.8678127569790024,Intermediate,Gabes,Analyste Données,"Java,Machine Learning,React,Python",48,2969.538668394833
+1.4283480927441896,Advanced,Gabes,Technicien Réseau,"React,Python,Docker,Machine Learning",36,2761.5584929210067
+6.811840309342058,Intermediate,Bizerte,Technicien Réseau,"React,Linux",43,3247.6960118753354
+0.17053769928918966,Intermediate,Nabeul,Data Scientist,"Docker,React,SQL",31,3333.450439634986
+4.218567781930715,Intermediate,Kef,Technicien Réseau,"Kubernetes,React,Docker",32,2580.72802552382
+7.187068579298894,Beginner,Bizerte,Data Scientist,"Kubernetes,Docker,Machine Learning,SQL",46,4159.243279177828
+10.46833672192969,Intermediate,Nabeul,Data Scientist,"SQL,Java",45,5360.04714679483
+2.0933729677254638,Intermediate,Sousse,Data Scientist,"Machine Learning,Kubernetes,Java",37,3517.2711445980985
+8.609039817705016,Beginner,Nabeul,Analyste Données,"Docker,SQL,Machine Learning,Python,Java",47,4414.0945862402705
+0.5862194254938867,Beginner,Sousse,Analyste Données,"Machine Learning,Docker",44,2620.7496287935164
+9.368719786058438,Advanced,Sfax,Technicien Réseau,"Linux,React,Kubernetes",36,4709.813908286693
+0.6818981526403542,Intermediate,Monastir,Analyste Données,"React,Docker,Java,Linux",38,2936.40748560996
+2.5315731560493218,Intermediate,Sfax,Technicien Réseau,"Machine Learning,React,Linux,Kubernetes",35,3132.83272621282
+7.980026816632449,Intermediate,Bizerte,Analyste Données,"Docker,SQL,Machine Learning,Kubernetes,React",47,4095.420573959024
+0.8121089496020808,Advanced,Sousse,Ingénieur Logiciel,"Java,Python,SQL",47,3570.091246089839
+1.3019651122237548,Intermediate,Bizerte,Ingénieur Logiciel,"Kubernetes,Python,React",43,2843.887285476738
+6.405215488224528,Intermediate,Kef,Technicien Réseau,"React,Docker,SQL,Java,Linux",43,3374.523577574478
+6.365480859958473,Advanced,Tunis,Analyste Données,"Machine Learning,SQL,React,Docker,Linux",43,5284.401296092147
+5.124221043686954,Advanced,Bizerte,Analyste Données,"Java,Kubernetes,React,Docker",33,3660.4482264498347
+5.920008545438085,Beginner,Kef,Data Scientist,"Linux,Machine Learning,Docker",33,3264.010670540241
+3.912345505978191,Advanced,Nabeul,Chef de Projet,"Docker,Kubernetes,Machine Learning,React,Linux",44,5123.0577539357055
+1.4504184962970497,Intermediate,Sfax,Technicien Réseau,"React,Python,Linux,Java,Kubernetes",44,3245.1986255297006
+2.120915968966317,Intermediate,Nabeul,Chef de Projet,"Linux,React,SQL,Java,Docker",47,4536.2659441792775
+1.0020063725826591,Beginner,Tunis,Chef de Projet,"Docker,Machine Learning",43,3513.8814137363897
+11.954380696618259,Beginner,Sousse,Technicien Réseau,"SQL,React",30,3971.041471015656
+4.378045273182993,Advanced,Kef,Analyste Données,"Machine Learning,Linux",39,3326.298048873688
+2.561228297395112,Intermediate,Monastir,Technicien Réseau,"Linux,Java,React,Docker",49,3215.032061862159
+3.0995375316058165,Intermediate,Bizerte,Chef de Projet,"Linux,Kubernetes,SQL,Docker",39,3714.4427226828634
+14.714118684986055,Advanced,Sousse,Analyste Données,"Python,Docker,SQL,Kubernetes,Linux",39,6355.61196958749
+0.8323477506425034,Advanced,Monastir,Ingénieur Logiciel,"Linux,SQL,Docker,Python,Machine Learning",31,3114.0828660609504
+4.4122230455427704,Beginner,Remote,Technicien Réseau,"Linux,Docker",37,2088.4733058024067
+3.5249722039658864,Intermediate,Bizerte,Technicien Réseau,"SQL,Linux,Docker",30,2533.489956644517
+4.726721590015364,Beginner,Nabeul,Analyste Données,"Python,Kubernetes,React,Docker,Java",30,3563.9279960596273
+0.09138090203248617,Advanced,Sfax,Ingénieur Logiciel,"Linux,SQL",33,3009.1908101297704
+10.283467612703483,Intermediate,Kef,Ingénieur Logiciel,"SQL,Linux",36,3742.8197828447196
+13.44994268345626,Expert,Tunis,Analyste Données,"Java,SQL,Machine Learning",38,6904.413418083628
+4.163577319716988,Beginner,Tunis,Data Scientist,"Java,Kubernetes,Docker,React,Python",45,4630.784983668554
+5.964353702629791,Beginner,Nabeul,Technicien Réseau,"Linux,React,Java",34,3589.8602315886837
+12.787346789228131,Intermediate,Gabes,Technicien Réseau,"Machine Learning,Docker,Linux",31,4151.726083954207
+6.141987266962591,Intermediate,Tunis,Chef de Projet,"Linux,React",40,4587.247587933647
+0.8275525456206085,Beginner,Kef,Analyste Données,"Java,React,Python,Machine Learning",47,2395.1923851380398
+4.293510749262801,Advanced,Nabeul,Chef de Projet,"Machine Learning,Docker,Kubernetes,Python,Linux",48,5418.249322342343
+4.666104285170075,Beginner,Sousse,Chef de Projet,"Machine Learning,Python,Linux",42,3963.268345613153
+2.7593725196141055,Intermediate,Tunis,Ingénieur Logiciel,"Machine Learning,Kubernetes,Linux",40,3687.303350159298
+6.667451519416961,Advanced,Nabeul,Technicien Réseau,"Java,SQL,Machine Learning,React",49,4899.535412100797
+13.618384428812373,Intermediate,Kef,Chef de Projet,"Python,Kubernetes,Linux",48,5433.086855593927
+12.989381065270587,Advanced,Bizerte,Ingénieur Logiciel,"Linux,Java,Docker,React",46,5221.876973018644
+2.9968214815180882,Beginner,Bizerte,Analyste Données,"SQL,Linux,Machine Learning,Python",34,2700.852063625589
+0.6008935227589209,Intermediate,Tunis,Chef de Projet,"Python,Java,SQL,Docker",42,4016.4910923143916
+20.945869945603533,Beginner,Sfax,Technicien Réseau,"Java,Docker,Kubernetes",49,6398.3352218623295
+9.128590554092215,Beginner,Bizerte,Chef de Projet,"React,Linux,Machine Learning,SQL",30,4331.75310361861
+0.665729798585317,Advanced,Sfax,Analyste Données,"React,Java,Docker,Python",39,3630.8930329173895
+12.68153970481638,Beginner,Sousse,Chef de Projet,"Linux,Machine Learning,Python,Docker,Java",37,5598.287304226678
+10.197119656134317,Intermediate,Nabeul,Technicien Réseau,"Kubernetes,React",37,4208.907720994469
+3.657756929843246,Intermediate,Monastir,Ingénieur Logiciel,"Kubernetes,Java",48,3229.869824352395
+4.473568934145375,Intermediate,Kef,Technicien Réseau,"Docker,Python,Linux,React,SQL",35,3153.5837096421756
+2.545824217045068,Advanced,Nabeul,Ingénieur Logiciel,"Kubernetes,Python,Java,Linux,React",41,4335.893042450421
+0.28159074621646896,Beginner,Kef,Data Scientist,"Machine Learning,Java,Python",36,2358.802898000695
+2.0413244315037056,Intermediate,Sousse,Technicien Réseau,"Machine Learning,Docker",45,3010.1233294576605
+8.119039555330893,Expert,Remote,Technicien Réseau,"Java,Machine Learning,Linux",38,4327.129418289804
+0.023213920331714426,Intermediate,Tunis,Analyste Données,"SQL,Machine Learning",39,2848.389079948976
+2.0285694829508434,Advanced,Kef,Chef de Projet,"Kubernetes,Linux,Python,Docker",39,3551.0014910870545
+2.5388904742733907,Beginner,Kef,Ingénieur Logiciel,"Machine Learning,Kubernetes,Python",39,2329.173717281695
+3.854415120619409,Intermediate,Sfax,Ingénieur Logiciel,"Docker,SQL,Python",49,3728.049502302767
+12.619627380765209,Intermediate,Nabeul,Analyste Données,"Linux,Java,Machine Learning,SQL,Docker",45,5673.2376380992955
+2.1258855544539506,Advanced,Remote,Analyste Données,"SQL,Python",30,2769.9264064412446
+2.1305324297924764,Expert,Gabes,Chef de Projet,"Linux,Java,SQL",46,4353.303115948263
+6.687544758327828,Intermediate,Tunis,Chef de Projet,"React,Kubernetes",43,5039.29047605625
+3.009388867461697,Intermediate,Monastir,Technicien Réseau,"Python,SQL,Kubernetes",48,3059.110368134112
+1.2719123685136269,Beginner,Gabes,Data Scientist,"React,SQL",46,2694.1818839754264
+3.0114117528807753,Intermediate,Nabeul,Chef de Projet,"React,Machine Learning,SQL,Python,Linux",43,4519.192645686943
+0.7590996096569352,Intermediate,Tunis,Analyste Données,"SQL,Docker",37,2913.3262877233487
+0.9702725160404837,Expert,Kef,Chef de Projet,"React,Docker,SQL",38,4157.386854860468
+3.4494402140140883,Intermediate,Monastir,Ingénieur Logiciel,"Java,Machine Learning",37,2990.277619420879
+2.714381081280035,Intermediate,Sfax,Data Scientist,"React,SQL,Machine Learning,Linux",42,4108.925559791692
+12.316463676264064,Beginner,Remote,Technicien Réseau,"Python,Kubernetes",46,3768.0211816893893
+2.2501729151986414,Beginner,Sfax,Ingénieur Logiciel,"Kubernetes,Docker,Linux,Python",48,3248.655052974029
+4.34451191892636,Beginner,Sousse,Ingénieur Logiciel,"Docker,Java,Kubernetes,SQL",36,3454.228454297422
+5.00195386258924,Intermediate,Tunis,Data Scientist,"SQL,Python,Linux,Machine Learning,React",46,4933.795144917188
+0.06590472412829614,Advanced,Sfax,Technicien Réseau,"SQL,Machine Learning,Docker,Python,React",30,3212.2022919820265
+5.446340985179945,Intermediate,Gabes,Analyste Données,"Java,Python",34,3013.4993372047156
+0.9802932009962411,Intermediate,Sfax,Technicien Réseau,"Python,React",35,2556.941359497218
+16.22999136136213,Beginner,Bizerte,Chef de Projet,"SQL,Machine Learning,Docker",31,5371.797608991101
+0.8047345215509004,Advanced,Sousse,Ingénieur Logiciel,"Python,Kubernetes,Docker,React",45,3631.158375870512
+2.6775055726830344,Advanced,Nabeul,Chef de Projet,"React,Python",34,3961.0591289881854
+0.4460671882525157,Beginner,Remote,Analyste Données,"Machine Learning,Kubernetes,Python",34,1965.1479642865586
+25.0,Advanced,Sousse,Chef de Projet,"Kubernetes,SQL,Linux,Machine Learning,Java",41,7500.0
+3.4877343282911304,Intermediate,Bizerte,Technicien Réseau,"SQL,Python,Machine Learning,Java,Docker",32,2854.155594914251
+4.524096620444729,Beginner,Tunis,Chef de Projet,"SQL,Docker,Linux,Python,Java",45,4776.48811593326
+0.34716025414127083,Intermediate,Gabes,Analyste Données,"Java,Kubernetes,React,Machine Learning,Linux",35,2635.4050344888383
+6.930681276079995,Intermediate,Remote,Analyste Données,"Machine Learning,Docker,Linux",44,3429.074817407667
+1.178014191251316,Beginner,Remote,Analyste Données,"SQL,Kubernetes",44,1930.3314589274785
+11.416574284058152,Advanced,Sousse,Technicien Réseau,"Linux,SQL,Machine Learning",45,5085.279427047086
+1.1479441408041666,Advanced,Tunis,Analyste Données,"SQL,Python,Linux,Machine Learning",49,4103.420820992441
+1.0578521490440793,Intermediate,Kef,Ingénieur Logiciel,"Docker,Machine Learning,SQL,Linux",42,2860.1126424847757
+0.18617170928836083,Intermediate,Bizerte,Analyste Données,"Python,Kubernetes,React,SQL,Machine Learning",41,2825.8104865167743
+3.1939289664773196,Intermediate,Kef,Chef de Projet,"Java,React",39,3149.4359869733007
+4.1602205183809025,Intermediate,Gabes,Chef de Projet,"Machine Learning,SQL,Kubernetes,Python",43,3926.953034494238
+0.3398347008957824,Intermediate,Tunis,Chef de Projet,"Java,Machine Learning",31,3390.314545922694
+7.470012967991861,Beginner,Tunis,Technicien Réseau,"Linux,Kubernetes",32,3558.7485925146743
+3.0191732514681084,Intermediate,Bizerte,Chef de Projet,"SQL,React,Linux,Java,Kubernetes",38,3643.424563140659
+3.7157882729629845,Advanced,Monastir,Technicien Réseau,"Python,Machine Learning,Linux,Java",40,3712.824721742028
+2.9059073589379016,Intermediate,Kef,Technicien Réseau,"SQL,Java",40,2610.7991440957317
+2.5604910063746065,Beginner,Sfax,Analyste Données,"Kubernetes,React,Python",39,2894.459037386374
+4.100817285689374,Advanced,Remote,Ingénieur Logiciel,"Kubernetes,React",43,3314.5043774901706
+0.8435150338047774,Beginner,Monastir,Analyste Données,"Linux,Java,Python",38,2328.447032879342
+1.0040254310431276,Intermediate,Sfax,Analyste Données,"SQL,Kubernetes,Linux,Java,Python",49,3645.2700340723986
+9.894746641480701,Beginner,Bizerte,Technicien Réseau,"Machine Learning,Linux,SQL,Kubernetes",39,3814.3995516860887
+14.604558546323428,Intermediate,Remote,Technicien Réseau,"Python,Java,SQL,Machine Learning,React",38,4228.0680286621855
+2.3365109373756927,Advanced,Nabeul,Chef de Projet,"Python,SQL",34,4212.539374114577
+1.57865682846333,Intermediate,Sfax,Chef de Projet,"SQL,Docker,Java",37,3851.760906027369
+5.1641163254722855,Beginner,Monastir,Analyste Données,"Machine Learning,Linux",40,2814.0852492007953
+2.6274478380362316,Advanced,Sfax,Data Scientist,"Kubernetes,Python,Docker,Java,Linux",30,4571.7380181284625
+0.12857074366323515,Advanced,Sfax,Data Scientist,"SQL,Machine Learning",39,3685.9223499868626
+0.848918016497553,Advanced,Bizerte,Chef de Projet,"Machine Learning,Kubernetes,Java,Python",30,3701.5403151437245
+6.293416299265227,Beginner,Kef,Data Scientist,"Machine Learning,Docker",36,3027.428074282146
+5.378248911587678,Intermediate,Nabeul,Chef de Projet,"Linux,Machine Learning,React,Python",43,4761.2974945792785
+0.13734928942220048,Expert,Bizerte,Technicien Réseau,"Kubernetes,React",34,3373.8442762943414
+1.254964869333525,Advanced,Gabes,Analyste Données,"SQL,Docker",46,2671.7043661985513
+1.313807894754655,Beginner,Bizerte,Ingénieur Logiciel,"Machine Learning,SQL,Linux",35,2298.4260459355537
+5.572073614139259,Beginner,Remote,Analyste Données,"SQL,Linux,Kubernetes,Python,Java",45,3148.6596050036324
+0.09953690646069702,Intermediate,Nabeul,Chef de Projet,"Docker,SQL",40,3200.386396647239
+0.549680293006864,Advanced,Tunis,Chef de Projet,"Java,Docker",39,3947.062241007337
+8.045092136481207,Intermediate,Gabes,Analyste Données,"Linux,React,Docker",44,3819.7030378285694
+0.9833885472589267,Intermediate,Sousse,Chef de Projet,"Kubernetes,Linux,Java,Machine Learning",36,3663.5129415056654
+5.2884954446028845,Beginner,Bizerte,Data Scientist,"Docker,Machine Learning,Python",31,3435.4609195653525
+1.3602431110449762,Intermediate,Sfax,Data Scientist,"SQL,Machine Learning,Kubernetes",41,3646.7153397776397
+0.5237001674243567,Advanced,Kef,Chef de Projet,"Docker,Java,Python,Kubernetes",48,3935.9397970564078
+1.3930975820572364,Intermediate,Tunis,Chef de Projet,"Linux,Kubernetes,Python,Docker,React",41,4423.624056557478
+6.405474065485159,Advanced,Bizerte,Data Scientist,"SQL,Python,Linux",45,4562.459189908754
+9.679181687269647,Expert,Bizerte,Chef de Projet,"Linux,Docker,Python",35,5688.1954947030445
+8.866254999877821,Beginner,Monastir,Chef de Projet,"React,Java",32,4190.010568757324
+2.5307124473754423,Intermediate,Monastir,Analyste Données,"Docker,Java",31,2770.2831558132316
+5.514383892022975,Intermediate,Tunis,Ingénieur Logiciel,"Python,React,Docker,Machine Learning,Kubernetes",49,4773.855074998596
+1.146967051644904,Advanced,Monastir,Data Scientist,"Java,Python",34,3364.8939840493167
+1.7346679430625842,Intermediate,Sfax,Analyste Données,"Linux,SQL,Python",40,3177.5231772653
+11.332993143154521,Intermediate,Gabes,Ingénieur Logiciel,"Linux,Docker,Python,Machine Learning",32,4202.858866256641
+0.06543594198142501,Advanced,Sousse,Chef de Projet,"Python,Docker,React,Linux",32,3893.260238528122
+0.44693569815224565,Intermediate,Nabeul,Chef de Projet,"Python,Kubernetes,React,Docker",34,3565.434846722775
+1.165251401199076,Advanced,Sousse,Analyste Données,"React,Docker,Machine Learning,Kubernetes",40,3536.7610683052535
+0.13445267612158443,Intermediate,Sousse,Chef de Projet,"SQL,Python,React,Kubernetes",32,3463.397262558018
+1.0010150164513638,Beginner,Nabeul,Technicien Réseau,"Kubernetes,Python,Docker",42,2473.5282812320133
+4.373843643721833,Intermediate,Monastir,Analyste Données,"Java,Docker",37,3237.988154552346
+2.735931591839002,Advanced,Tunis,Ingénieur Logiciel,"Machine Learning,Docker,React",49,4290.97040172861
+11.159315104109137,Intermediate,Nabeul,Analyste Données,"Docker,SQL,Kubernetes,Python,Java",39,5572.802429825452
+8.503479515097393,Advanced,Remote,Data Scientist,"Linux,Java,Docker",31,4017.9309630461275
+2.0913640258451602,Advanced,Gabes,Analyste Données,"Docker,SQL,Python,Linux",33,3159.1316978292325
+1.5016312607363926,Intermediate,Kef,Chef de Projet,"React,Python,Kubernetes,Java,Docker",47,3609.880592656701
+2.3876990405426888,Expert,Monastir,Chef de Projet,"Java,SQL,React,Kubernetes,Docker",48,5539.514504620431
+4.461588750716526,Beginner,Nabeul,Technicien Réseau,"React,Kubernetes",33,2759.4741031348344
+1.5603085490763644,Beginner,Remote,Technicien Réseau,"Machine Learning,Kubernetes,SQL,Docker,Python",49,2396.1871718613365
+4.892811227735438,Beginner,Kef,Technicien Réseau,"Kubernetes,Machine Learning,Python,React",38,2667.832154725672
+2.633180196399056,Advanced,Gabes,Ingénieur Logiciel,"Machine Learning,Docker,Kubernetes",45,3222.2814480075194
+4.0153368325742225,Intermediate,Gabes,Technicien Réseau,"React,Docker,Machine Learning,Python",35,2724.7497648422654
+2.86462697545556,Beginner,Monastir,Ingénieur Logiciel,"SQL,Kubernetes,Docker,React,Java",33,2807.0307780814733
+1.7439998763116658,Intermediate,Nabeul,Technicien Réseau,"React,Python,Machine Learning,Kubernetes",38,2878.915113810437
+14.826336105761017,Intermediate,Tunis,Ingénieur Logiciel,"Python,React,Docker",42,5808.526913867916
+7.211272518663181,Beginner,Gabes,Analyste Données,"Linux,React,Java,SQL",38,3357.7105221180923
+0.7547724906151043,Advanced,Tunis,Analyste Données,"React,Machine Learning,Linux,Python,Docker",35,3768.103570886664
+10.142524638596619,Advanced,Tunis,Chef de Projet,"SQL,React",48,6074.497893620077
+3.3416016483095823,Intermediate,Monastir,Ingénieur Logiciel,"Java,Python,SQL",43,3192.63784833318
+11.247697451448717,Expert,Kef,Data Scientist,"Java,Python",44,5451.58062587097
+8.043572269649502,Intermediate,Bizerte,Chef de Projet,"Kubernetes,Python",32,3987.8384426394796
+2.7687830962930366,Expert,Sousse,Analyste Données,"Kubernetes,Java,Machine Learning,Linux",34,4701.167211182059
+0.11362794738770057,Intermediate,Sousse,Ingénieur Logiciel,"Python,Docker,Java,Kubernetes,SQL",47,3433.8589050895766
+1.5645027388824335,Intermediate,Gabes,Technicien Réseau,"Python,Kubernetes",43,2548.3277051699315
+3.900438778398981,Beginner,Bizerte,Data Scientist,"Java,Python,Docker,React",45,3496.3041976372174
+5.018486659672682,Advanced,Kef,Analyste Données,"Machine Learning,Python",43,3418.3719057491066
+1.4912733996446945,Intermediate,Bizerte,Chef de Projet,"SQL,Java,Docker",38,3206.171262308825
+0.7503720941535776,Beginner,Monastir,Ingénieur Logiciel,"Python,Kubernetes,React,Linux,SQL",44,2751.755703691979
+9.006935435811958,Beginner,Gabes,Data Scientist,"Machine Learning,SQL",36,3665.244111688542
+20.80312081593617,Intermediate,Tunis,Ingénieur Logiciel,"Docker,Linux,Python,React,SQL",43,7500.0
+3.7294727348604346,Intermediate,Gabes,Technicien Réseau,"Java,SQL,Linux,Python,Kubernetes",35,3093.9493719992383
+0.9417743183003696,Advanced,Sousse,Chef de Projet,"Machine Learning,Java",44,3856.526472613253
+1.5893823586446643,Advanced,Kef,Ingénieur Logiciel,"Kubernetes,Python,Linux,Machine Learning,React",49,3264.1515924128594
+0.09280943705383003,Beginner,Bizerte,Analyste Données,"Linux,Java,Kubernetes,Machine Learning,Python",37,2515.355575157992
+12.284442638467786,Advanced,Kef,Chef de Projet,"React,SQL",31,4689.550853775718
+0.626405219231015,Beginner,Monastir,Analyste Données,"React,Machine Learning,Linux",37,2338.1171383482697
+4.296203344340779,Advanced,Gabes,Ingénieur Logiciel,"Python,SQL,Linux,Machine Learning,Docker",30,3499.0061192612675
+1.6014066430139646,Advanced,Nabeul,Chef de Projet,"Linux,Kubernetes",46,4229.026257087918
+4.039177577034926,Intermediate,Gabes,Analyste Données,"Machine Learning,Python,Linux,Kubernetes",48,3046.982554887616
+5.269443169930135,Advanced,Tunis,Technicien Réseau,"Java,Linux,React,Kubernetes",34,4296.60736395988
+8.8521959621118,Intermediate,Gabes,Technicien Réseau,"React,Java",49,3799.1193465969245
+1.1560126375226791,Intermediate,Remote,Ingénieur Logiciel,"Java,React,Docker,SQL,Kubernetes",45,2825.930699038744
+0.05528364815848598,Advanced,Monastir,Chef de Projet,"Kubernetes,SQL,Docker,Java",36,3868.3379530692173
+0.7360403534369526,Intermediate,Sfax,Data Scientist,"Java,Kubernetes,SQL",36,3254.060053166399
+11.513857644265908,Intermediate,Monastir,Chef de Projet,"Python,Docker,Kubernetes",47,5415.897866918746
+10.353006760265613,Intermediate,Bizerte,Technicien Réseau,"Java,Kubernetes,Machine Learning",47,4170.010457223824
+4.5492215509824625,Advanced,Sfax,Analyste Données,"Java,Python,Docker,Linux,SQL",31,4291.45193054738
+4.5879185925267345,Intermediate,Bizerte,Data Scientist,"Kubernetes,SQL",44,3635.1477111733775
+5.468671147037563,Beginner,Bizerte,Ingénieur Logiciel,"Kubernetes,SQL,Linux,React,Docker",43,3474.6707589203197
+0.9641101431927608,Advanced,Tunis,Data Scientist,"Docker,Linux,Machine Learning,Java",47,4341.124353095508
+12.291047803856507,Advanced,Tunis,Ingénieur Logiciel,"Python,Kubernetes,Java,Machine Learning",38,6161.936749800134
+2.7130481717315904,Beginner,Sousse,Data Scientist,"Java,React,Python,Machine Learning,Docker",43,3843.4306417679427
+2.4155539966393422,Beginner,Sousse,Ingénieur Logiciel,"Docker,Kubernetes,SQL,Java,Python",34,3238.696622722574
+3.658584663113405,Beginner,Nabeul,Ingénieur Logiciel,"Linux,SQL,Python,Kubernetes",40,3591.35580676914
+0.24052332145988609,Intermediate,Sfax,Data Scientist,"React,Machine Learning,SQL",37,3389.2522123994822
+0.9093085252463616,Intermediate,Kef,Data Scientist,"Java,Python,Kubernetes",34,2634.739176936005
+6.697695452119817,Advanced,Gabes,Ingénieur Logiciel,"Machine Learning,Python,Docker,Java,Linux",40,3860.434415101111
+0.43214137835921795,Intermediate,Gabes,Technicien Réseau,"Machine Learning,React",34,1998.3673622788242
+4.621011094925578,Intermediate,Bizerte,Data Scientist,"Linux,SQL",46,3722.218119567735
+1.407500168002204,Intermediate,Sousse,Chef de Projet,"SQL,Java",33,3455.5362596964173
+2.4657112846259417,Advanced,Bizerte,Analyste Données,"SQL,Machine Learning,Python,Java,Docker",44,3635.472028616773
+1.7032609597707298,Intermediate,Remote,Ingénieur Logiciel,"React,Machine Learning",48,2497.2137948801496
+2.1977423886142673,Expert,Remote,Ingénieur Logiciel,"Machine Learning,React,Kubernetes,Java",31,3787.139613831436
+6.347819933193434,Intermediate,Kef,Analyste Données,"Python,SQL,Java,Machine Learning",46,3625.795480210355
+1.7628576980277544,Beginner,Tunis,Technicien Réseau,"Kubernetes,Java",41,2649.6096762841216
+4.178217653528511,Intermediate,Tunis,Analyste Données,"React,Java",46,3689.404389107466
+3.2317989334513086,Intermediate,Sousse,Data Scientist,"SQL,Java,Docker",39,3630.535308658873
+5.448329615463392,Intermediate,Sousse,Analyste Données,"SQL,Linux",47,3558.326119149009
+13.809608237564845,Beginner,Remote,Ingénieur Logiciel,"React,Linux",48,3930.8299015552248
+6.594526356275214,Beginner,Tunis,Analyste Données,"Python,Kubernetes,Linux",47,4133.7423456437855
+1.2099780662202366,Advanced,Sfax,Chef de Projet,"Machine Learning,Docker,Python,Kubernetes",42,4441.969876068356
+0.15839839412128923,Beginner,Sfax,Data Scientist,"Python,Linux,SQL,Java,Docker",43,3410.185228495055
+1.5208465100279396,Advanced,Sousse,Analyste Données,"Machine Learning,Linux,React",45,3608.321888691783
+4.520303259365487,Intermediate,Bizerte,Ingénieur Logiciel,"Java,Machine Learning,SQL",47,3593.945091098842
+0.2639763904988734,Intermediate,Tunis,Data Scientist,"Linux,Java,Python,Machine Learning,SQL",47,3964.1609850537748
+3.4295297801309443,Intermediate,Sfax,Ingénieur Logiciel,"Python,Java,React",45,3578.5638979032533
+4.542144199937801,Intermediate,Tunis,Technicien Réseau,"Python,Kubernetes,Linux,Docker,React",46,3918.052867971128
+2.034159389690502,Intermediate,Monastir,Chef de Projet,"Java,React,Kubernetes,Linux",36,3655.8174704199173
+7.368249795733673,Beginner,Gabes,Technicien Réseau,"Python,SQL,React",41,3072.4228539656297
+0.56359457382339,Beginner,Remote,Chef de Projet,"Java,Linux,Python,Docker,SQL",31,2795.1880225413884
+0.39055252896123505,Intermediate,Tunis,Analyste Données,"Kubernetes,Linux,Docker,React",39,3202.4859066428494
+6.513237051081964,Intermediate,Gabes,Data Scientist,"React,Python,Docker,Machine Learning",34,3701.3525041626226
+3.420851133315343,Advanced,Monastir,Analyste Données,"Linux,React",32,3288.432681622191
+5.830213278665704,Advanced,Tunis,Chef de Projet,"Java,Linux,React,Kubernetes",48,5761.469354022289
+2.8531199956442865,Advanced,Sousse,Chef de Projet,"Machine Learning,Kubernetes,Python,SQL,Linux",42,4497.479485716098
+1.414481268792658,Advanced,Gabes,Chef de Projet,"SQL,Java,Kubernetes",41,3634.8244305722583
+8.54911849285598,Intermediate,Tunis,Ingénieur Logiciel,"Python,Java,Docker,React,SQL",32,5054.2673571795
+8.03260781980095,Intermediate,Gabes,Data Scientist,"Docker,React,Python,Linux",35,4095.568761466121
+5.932244098545607,Advanced,Monastir,Analyste Données,"React,SQL",43,3807.47362903347
+1.5882680749401603,Intermediate,Tunis,Analyste Données,"Docker,React",33,2920.607217088508
+4.460804398617321,Intermediate,Tunis,Technicien Réseau,"Kubernetes,React,Docker,Python",42,4045.3823740611974
+2.2390498778991104,Beginner,Tunis,Chef de Projet,"Kubernetes,Linux",48,3716.3715269212657
+0.48025367303326616,Intermediate,Kef,Chef de Projet,"Java,React,Kubernetes,Docker",47,3332.2054266480254
+12.463499217688208,Intermediate,Sousse,Chef de Projet,"Docker,React,Java,Python",32,5669.271440534711
+0.7356522440976001,Advanced,Monastir,Analyste Données,"Python,Kubernetes,Machine Learning,Linux",49,3470.1807552173527
+15.002453265613813,Intermediate,Kef,Technicien Réseau,"Java,Python,Kubernetes",35,4374.51329634802
+2.953005063954361,Intermediate,Bizerte,Ingénieur Logiciel,"Linux,Java,SQL,React,Docker",45,3407.6668305079
+1.023651409567329,Expert,Kef,Data Scientist,"Java,Kubernetes,React,Docker",49,4305.144596839163
+3.903349230758683,Beginner,Remote,Ingénieur Logiciel,"Kubernetes,React",32,2112.334787258737
+10.315708971410293,Intermediate,Remote,Analyste Données,"Machine Learning,Java",41,3613.406433007377
+6.588038895652368,Beginner,Tunis,Chef de Projet,"Docker,React,SQL,Machine Learning",48,5115.391023483244
+8.213969130368787,Advanced,Kef,Data Scientist,"Machine Learning,SQL,React,Linux",48,4606.3972281100405
+5.376188575852013,Advanced,Bizerte,Analyste Données,"Docker,SQL",33,3147.9976755745442
+5.892769180707661,Intermediate,Kef,Analyste Données,"Machine Learning,Python,Kubernetes,Linux",30,3183.689561409771
+9.458859940251397,Advanced,Sousse,Analyste Données,"Java,Linux",31,4690.557258094371
+1.4361975777006006,Intermediate,Sousse,Data Scientist,"SQL,Machine Learning,Linux",42,3453.159689325461
+3.361088330856207,Advanced,Bizerte,Data Scientist,"Python,Docker",42,3881.2513465680413
+1.2500656455306116,Advanced,Kef,Technicien Réseau,"Python,Docker",31,2356.677160048065
+21.977792087026646,Advanced,Gabes,Technicien Réseau,"Docker,React",48,5939.88609030204
+14.417318936602072,Beginner,Sousse,Ingénieur Logiciel,"Linux,Python,SQL",45,5214.085897170602
+0.20112550602689544,Expert,Sousse,Data Scientist,"Machine Learning,SQL,Linux",41,4419.135602182797
+6.1136578159786445,Advanced,Sfax,Data Scientist,"Python,Kubernetes,SQL",30,4759.958712536001
+12.967917787376278,Intermediate,Kef,Data Scientist,"Kubernetes,Machine Learning,Java,SQL",38,4829.3129681471555
+0.9957641269392501,Advanced,Sousse,Technicien Réseau,"SQL,Docker,Python,Machine Learning",46,3625.37731148753
+4.196014588229511,Intermediate,Monastir,Analyste Données,"Python,SQL,Docker",39,3235.5964171954306
+12.354326320627651,Advanced,Kef,Chef de Projet,"SQL,Python,Docker,Machine Learning,React",47,5622.761896399132
+0.17267761772105905,Beginner,Remote,Technicien Réseau,"Python,Linux,Machine Learning,Kubernetes,Java",48,2313.907955963876
+5.977052284464427,Advanced,Sfax,Data Scientist,"React,Java",36,4775.9307782134265
+1.7644748237260641,Intermediate,Sousse,Technicien Réseau,"SQL,React,Docker",48,3226.1146432621595
+12.911243356778378,Beginner,Sfax,Ingénieur Logiciel,"React,Python,Linux,SQL,Java",44,5444.7638663686175
+17.712349613111268,Beginner,Remote,Data Scientist,"SQL,React,Machine Learning,Java",38,5029.633237731758
+14.435868406204872,Beginner,Bizerte,Ingénieur Logiciel,"SQL,Docker,React",39,4377.56857616318
+3.2143070259922912,Intermediate,Bizerte,Data Scientist,"Docker,Java,Python,Linux,Machine Learning",49,4111.436604653056
+9.904053533676791,Intermediate,Kef,Technicien Réseau,"Java,SQL,Python,Linux",49,4083.0188673889133
+9.307136366495394,Intermediate,Remote,Analyste Données,"Java,Machine Learning,SQL,Kubernetes,Docker",33,3798.5328808033755
+1.9217026075976718,Intermediate,Nabeul,Chef de Projet,"Java,React,Docker,Linux,Machine Learning",35,4213.632471171835
+8.827987706973266,Intermediate,Nabeul,Ingénieur Logiciel,"Java,Docker,Kubernetes,Python,Machine Learning",33,4766.699703072692
+0.18854897634454862,Advanced,Kef,Technicien Réseau,"Java,React,Linux,Kubernetes",34,2661.6286799924465
+4.535043201439034,Beginner,Tunis,Analyste Données,"SQL,React,Docker",38,3414.028392506191
+1.3068812059864285,Advanced,Sfax,Technicien Réseau,"Machine Learning,Python",41,3193.759314216579
+0.6423888373582203,Advanced,Sfax,Ingénieur Logiciel,"Kubernetes,SQL,Machine Learning,Python",37,3455.995658624499
+0.40037671652191376,Intermediate,Bizerte,Chef de Projet,"SQL,Machine Learning,Kubernetes,Linux,Python",34,3507.545248529276
+5.958389748441185,Intermediate,Nabeul,Technicien Réseau,"Kubernetes,React,Docker,Python",40,4042.972348926104
+2.0766300653428353,Advanced,Sousse,Data Scientist,"Machine Learning,Linux,SQL,Docker",40,4380.618233472345
+6.450682186101888,Beginner,Sousse,Analyste Données,"Linux,SQL,Kubernetes",42,3887.665636758834
+0.33794967744737164,Beginner,Sousse,Technicien Réseau,"Kubernetes,Java",43,2052.4264113487698
+1.893801907088391,Beginner,Bizerte,Analyste Données,"SQL,React,Python",37,2545.6987639966273
+3.8771175720002478,Advanced,Remote,Data Scientist,"Machine Learning,Docker,Python,Linux,Kubernetes",47,3699.1659309993356
+7.820486666689938,Beginner,Gabes,Chef de Projet,"Docker,Python",48,3891.5599692398923
+1.9191480352007948,Intermediate,Nabeul,Chef de Projet,"Machine Learning,Kubernetes",41,3821.23740093971
+4.916045432010813,Expert,Nabeul,Data Scientist,"Docker,Kubernetes,Linux",41,5458.888070647023
+10.856808293621349,Advanced,Sfax,Analyste Données,"Machine Learning,Python",47,5266.3010661935805
+4.783782545360431,Intermediate,Tunis,Technicien Réseau,"Python,React,Java",39,3769.4037192196756
+1.3260782148292474,Beginner,Kef,Data Scientist,"React,Python,Java",36,2621.7918520813337
+0.12351706872077611,Advanced,Sfax,Ingénieur Logiciel,"Machine Learning,Kubernetes,Python",47,3408.828709874115
+10.204908431870907,Intermediate,Remote,Analyste Données,"Kubernetes,Docker,Linux,Java",41,3768.433993127698
+0.10749432080130657,Beginner,Kef,Chef de Projet,"Machine Learning,Linux,Python,React,Kubernetes",43,2815.7045697544186
+10.385288833020851,Beginner,Nabeul,Data Scientist,"React,Kubernetes,SQL",44,4942.122824849082
+3.763818602347772,Advanced,Remote,Chef de Projet,"Docker,SQL",45,3554.490109457447
+13.989959213963314,Intermediate,Kef,Analyste Données,"React,Python,Docker,Linux",31,4626.913920443923
+8.016862615115626,Advanced,Monastir,Chef de Projet,"React,Java,Linux,Docker",47,5448.573150848649
+25.0,Advanced,Gabes,Data Scientist,"SQL,Java,Docker",41,7350.700964264312
+2.1593930842414184,Intermediate,Nabeul,Analyste Données,"Python,Linux,SQL",45,3417.124353760336
+7.287626295557289,Intermediate,Tunis,Ingénieur Logiciel,"Python,SQL,Java",42,4549.761751862445
+2.5702450131147043,Intermediate,Sousse,Data Scientist,"SQL,Linux,Java,Kubernetes",49,4059.903189164547
+3.2684365214259565,Intermediate,Monastir,Technicien Réseau,"Kubernetes,Java,Docker,Python,Machine Learning",46,3477.4615355061537
+4.937664538140577,Intermediate,Sousse,Data Scientist,"Docker,Linux,Kubernetes,SQL",47,4191.646917582898
+10.34457032016195,Advanced,Gabes,Analyste Données,"Python,Java",32,4255.80792945958
+20.701985184206542,Intermediate,Kef,Data Scientist,"Docker,Machine Learning,Java,Python,Linux",39,6059.434431204275
+7.310985551696126,Advanced,Bizerte,Ingénieur Logiciel,"Java,Linux",30,3891.080378189239
+2.704420967955709,Intermediate,Tunis,Ingénieur Logiciel,"Docker,SQL,Python,Linux,Java",35,3805.0310075532866
+2.7353478790951207,Intermediate,Gabes,Technicien Réseau,"SQL,Kubernetes,Linux",32,2342.559427731607
+6.6890888798683275,Intermediate,Sousse,Chef de Projet,"Kubernetes,Java,Machine Learning",48,4843.137590827577
+1.3641456002979715,Intermediate,Monastir,Analyste Données,"SQL,Machine Learning",33,2521.8094676158044
+0.5853333479033074,Advanced,Nabeul,Analyste Données,"Linux,React",49,3356.7126368765707
+2.1895966579705823,Beginner,Monastir,Chef de Projet,"Kubernetes,Linux,SQL,React,Python",32,3289.537040553848
+1.69304553208913,Intermediate,Monastir,Ingénieur Logiciel,"React,Docker,Kubernetes",37,2695.476184392567
+1.7570734486615278,Beginner,Bizerte,Ingénieur Logiciel,"Java,SQL,React,Docker",37,2522.2226248895063
+1.3303058297974837,Intermediate,Bizerte,Data Scientist,"Python,React,Java,SQL,Kubernetes",36,3269.351049978776
+0.21502390468673663,Intermediate,Remote,Technicien Réseau,"React,Docker",31,1686.4723102638743
+0.0901780141597453,Intermediate,Remote,Technicien Réseau,"Python,Kubernetes",35,1887.028223863724
+21.99988989556151,Expert,Kef,Technicien Réseau,"Java,Linux",45,6620.68756742264
+2.79109873446051,Intermediate,Remote,Data Scientist,"Python,SQL",39,2888.7003075183893
+2.425193637276589,Advanced,Sfax,Technicien Réseau,"Kubernetes,Machine Learning,SQL,Linux",33,3739.610717599011
+5.691663243132235,Intermediate,Tunis,Chef de Projet,"Java,Docker,Machine Learning,React,Linux",42,5276.105892205601
+1.2311262797046667,Intermediate,Sfax,Data Scientist,"React,Linux,Python,SQL",39,3710.776500122405
+14.97478126869888,Beginner,Sfax,Chef de Projet,"Java,React,Machine Learning,Kubernetes,Python",43,6455.5199946040575
+7.716963909377931,Intermediate,Sousse,Data Scientist,"Python,SQL,Machine Learning",38,4722.227184045213
+0.46831819320503476,Intermediate,Gabes,Technicien Réseau,"SQL,Docker",40,2115.7717917108307
+2.7028238701669487,Intermediate,Sfax,Chef de Projet,"Python,Java,Docker,SQL",47,4690.650090020415
+10.564714800704266,Beginner,Tunis,Chef de Projet,"Linux,Python,Java,React",40,5522.923156315233
+14.477808015604161,Beginner,Bizerte,Chef de Projet,"Python,Machine Learning",46,5209.714123724013
+3.1499372155069616,Intermediate,Kef,Data Scientist,"Java,Machine Learning",31,3093.548096779569
+4.751970862882183,Expert,Sousse,Analyste Données,"Kubernetes,Machine Learning,React",32,4584.050051784761
+0.9138119462839928,Intermediate,Bizerte,Technicien Réseau,"Docker,React,Machine Learning",40,2442.2513994791234
+23.647223430464063,Intermediate,Sousse,Chef de Projet,"Docker,Kubernetes,Linux,Machine Learning,React",47,7500.0
+1.3176908250884165,Beginner,Tunis,Analyste Données,"React,Python",32,2585.9626507238436
+14.30004665746944,Intermediate,Monastir,Technicien Réseau,"Machine Learning,Python,Kubernetes",44,5092.396492361076
+5.2440652973428,Intermediate,Nabeul,Technicien Réseau,"Python,React",40,3648.1491264358065
+4.679111114360969,Beginner,Gabes,Chef de Projet,"Python,React,Machine Learning,SQL,Docker",40,3596.2153411976765
+3.594258762962206,Intermediate,Bizerte,Chef de Projet,"Kubernetes,Linux,Machine Learning",49,4005.750879185329
+1.311175140259813,Beginner,Gabes,Data Scientist,"React,Machine Learning,Linux",40,2463.9830583082016
+0.9711288501168364,Beginner,Monastir,Analyste Données,"Machine Learning,Linux,Python,Java",48,2899.472197217711
+1.2454244931025338,Beginner,Nabeul,Analyste Données,"Docker,Python",30,2509.3377650945276
+1.031667317772751,Beginner,Gabes,Chef de Projet,"SQL,Machine Learning,Java",34,2607.324408383789
+7.561203787863983,Beginner,Gabes,Technicien Réseau,"Kubernetes,Java,Linux,Machine Learning",39,3043.162776323262
+2.154878205365372,Intermediate,Bizerte,Chef de Projet,"Kubernetes,React,Java",39,3382.0964697698305
+0.2979150416638424,Advanced,Remote,Technicien Réseau,"SQL,React,Kubernetes,Linux,Java",43,2818.2528639882944
+17.385421082633872,Intermediate,Nabeul,Technicien Réseau,"Docker,SQL,Machine Learning",31,5816.277546780249
+10.761604850130002,Intermediate,Monastir,Chef de Projet,"Machine Learning,Linux,Python,Java",33,5181.276578331396
+13.138272769033772,Intermediate,Nabeul,Ingénieur Logiciel,"Python,Linux,Kubernetes",31,5464.314556096003
+25.0,Advanced,Tunis,Analyste Données,"Machine Learning,Docker,React",47,7500.0
+0.9551684828809266,Intermediate,Remote,Technicien Réseau,"SQL,Linux,Kubernetes",42,2015.8959673407562
+2.522909274469404,Beginner,Tunis,Technicien Réseau,"Java,Kubernetes",48,2960.904948186193
+7.099017377406353,Intermediate,Monastir,Ingénieur Logiciel,"Python,Kubernetes",34,3511.9630887787075
+5.953977012106687,Beginner,Bizerte,Data Scientist,"Linux,Machine Learning,Java,React",49,3831.099649043105
+0.8355644239675343,Intermediate,Bizerte,Ingénieur Logiciel,"Docker,Linux",31,2486.729103612305
+8.459565014931576,Intermediate,Monastir,Ingénieur Logiciel,"Linux,Machine Learning,Python,SQL,React",40,4388.426891873631
+1.2708533362029315,Advanced,Sousse,Technicien Réseau,"React,Python",47,3199.367237700973
+1.2668387698482153,Intermediate,Monastir,Analyste Données,"Docker,Python,React,Machine Learning,SQL",35,2957.241233222938
+3.849864921454185,Advanced,Remote,Ingénieur Logiciel,"SQL,Java",39,2994.9806406087014
+4.493972620934595,Expert,Sfax,Data Scientist,"Linux,Docker,Machine Learning",46,5675.245727802292
+4.338529227647337,Beginner,Bizerte,Chef de Projet,"Python,Linux",40,3690.672806885994
+0.4797295148550687,Intermediate,Kef,Ingénieur Logiciel,"React,Python",48,2498.2491389248576
+10.496624056457119,Intermediate,Remote,Ingénieur Logiciel,"SQL,Kubernetes",46,3908.314876312043
+1.5435074883350777,Intermediate,Remote,Data Scientist,"Docker,Java",33,2586.088679445361
+0.6935233048470015,Intermediate,Remote,Analyste Données,"Linux,Java,Machine Learning,React,Python",43,2369.5305437036336
+10.979790492400168,Advanced,Gabes,Ingénieur Logiciel,"Linux,Java,Python,Kubernetes,Machine Learning",49,4818.879274331763
+15.578381763766396,Advanced,Remote,Ingénieur Logiciel,"Docker,Kubernetes,SQL,React,Java",33,5079.20221170082
+9.907133922374811,Intermediate,Bizerte,Analyste Données,"Java,Linux",43,4094.9603543545036
+8.290937348668061,Intermediate,Sfax,Data Scientist,"SQL,Python,Docker",33,4791.701693669913
+5.3245625059931,Advanced,Sfax,Ingénieur Logiciel,"Linux,Python,Machine Learning,SQL,Java",35,4679.734115769767
+4.002073907849494,Expert,Remote,Analyste Données,"SQL,React",38,3467.2040818213295
+0.45502448376175403,Advanced,Tunis,Ingénieur Logiciel,"Linux,Kubernetes",41,3449.4890882532973
+2.625072499551324,Beginner,Bizerte,Chef de Projet,"Python,Machine Learning",37,3179.7104738991434
+2.331560393153081,Intermediate,Bizerte,Technicien Réseau,"Kubernetes,Machine Learning,React",33,2447.8481170947316
+1.5038621173814224,Beginner,Nabeul,Chef de Projet,"SQL,Docker",34,3356.888349065131
+6.426277899985342,Intermediate,Sousse,Ingénieur Logiciel,"SQL,Python,Machine Learning",35,3956.3908181401484
+3.424662419588268,Beginner,Sousse,Data Scientist,"Docker,Kubernetes,Linux,Machine Learning,React",34,3532.819075686481
+0.4225972361777927,Intermediate,Tunis,Technicien Réseau,"Docker,Kubernetes,React,Python,Linux",48,3466.5250492308433
+1.2434813059020824,Intermediate,Sousse,Chef de Projet,"React,Java",37,3427.085396094032
+5.748350637986245,Beginner,Nabeul,Analyste Données,"Docker,React,Java,Kubernetes,Machine Learning",38,3870.1851736927015
+0.3959242009745616,Intermediate,Monastir,Data Scientist,"Java,SQL,Docker,Linux,Kubernetes",44,3311.4877197254887
+9.525993115221024,Intermediate,Sousse,Chef de Projet,"Java,Machine Learning,Kubernetes",33,4957.506189640112
+3.417435221560392,Intermediate,Bizerte,Analyste Données,"Kubernetes,React",38,2816.7330056922547
+3.2752756871779547,Beginner,Monastir,Ingénieur Logiciel,"Java,Kubernetes,Docker",36,2616.5698420438894
+4.487440382940374,Intermediate,Sousse,Analyste Données,"Java,Python,Kubernetes,Linux",37,3464.721224569689
+8.705739564722384,Advanced,Bizerte,Chef de Projet,"Docker,Python",44,4711.303100780694
+2.137090669726076,Beginner,Bizerte,Chef de Projet,"Kubernetes,Docker,React,SQL",48,3309.798523406985
+5.666269489614255,Beginner,Remote,Ingénieur Logiciel,"Python,Java,Linux,Kubernetes",44,3050.9604348762155
+4.170466705174868,Intermediate,Sfax,Analyste Données,"Python,Machine Learning,Kubernetes,SQL",34,3776.992301985847
+1.5532407280053537,Advanced,Tunis,Analyste Données,"Java,Kubernetes",48,3720.682404206041
+10.544557177201792,Intermediate,Nabeul,Ingénieur Logiciel,"SQL,Machine Learning,Java",36,4923.596620382776
+7.983250668763663,Intermediate,Gabes,Analyste Données,"Docker,Machine Learning,Python",35,3596.35067156467
+5.37133284692438,Intermediate,Sousse,Ingénieur Logiciel,"SQL,React,Java,Kubernetes,Machine Learning",48,4212.891375835564
+9.505028592708033,Intermediate,Sousse,Data Scientist,"Machine Learning,Docker",46,4939.637125608109
+10.09810319110265,Beginner,Monastir,Chef de Projet,"React,Python,Java,Linux",39,4796.21775957739
+6.161226604546554,Intermediate,Monastir,Data Scientist,"Java,SQL,Linux,React",48,4274.8101902095395
+9.070434253104661,Advanced,Sousse,Technicien Réseau,"Java,Linux,Machine Learning,React,Docker",40,4856.759103117659
+5.977898321859919,Intermediate,Kef,Technicien Réseau,"Kubernetes,Python,Machine Learning,SQL",44,3366.957386542285
+5.6993714586443245,Advanced,Nabeul,Technicien Réseau,"Machine Learning,Docker,Java,Python",39,4329.410976507003
+4.819682095110941,Advanced,Sousse,Ingénieur Logiciel,"Machine Learning,Linux,Kubernetes,Docker,React",40,4463.133617940969
+6.9861019581303205,Beginner,Sfax,Analyste Données,"Python,SQL,Java",32,3440.731917217833
+0.8634708773063949,Advanced,Kef,Data Scientist,"Python,Java",32,2756.415250685613
+10.637731590260767,Beginner,Nabeul,Data Scientist,"React,Kubernetes,Python",47,5018.497600561123
+10.272516610714677,Intermediate,Sousse,Data Scientist,"Java,Machine Learning",40,4927.713785605495
+0.1484175577151101,Beginner,Gabes,Data Scientist,"React,Docker",49,2358.3111373653333
+8.738236881376569,Beginner,Remote,Technicien Réseau,"Docker,Machine Learning,Linux,React,Python",47,3516.701469259837
+0.6898195370187782,Intermediate,Sfax,Data Scientist,"Docker,Linux,Kubernetes,SQL,Java",44,3988.0397650485716
+2.040734912546543,Intermediate,Gabes,Analyste Données,"SQL,Docker,Java",36,2756.0313704752516
+6.803294015803708,Intermediate,Monastir,Technicien Réseau,"SQL,Java,Kubernetes",39,3760.4807728515502
+0.8762921736478159,Intermediate,Monastir,Data Scientist,"Docker,Python",49,3140.9124177001463
+8.517837110792861,Beginner,Sousse,Ingénieur Logiciel,"SQL,Java",39,3624.9866373131663
+8.92295148506112,Beginner,Monastir,Chef de Projet,"Kubernetes,Java,Python,Docker,React",42,4748.912685400113
+3.540976526547985,Intermediate,Sfax,Chef de Projet,"Java,SQL,React,Linux,Python",44,4765.72713358105
+0.032031743087075834,Intermediate,Nabeul,Chef de Projet,"Kubernetes,SQL,Python,Java,Machine Learning",47,4017.919259619731
+1.6916367135592756,Advanced,Bizerte,Technicien Réseau,"Machine Learning,Docker,Java",33,2838.6260136249402
+4.797647471818692,Intermediate,Tunis,Data Scientist,"Python,Docker,React",49,4582.062268055727
+19.86581733987204,Advanced,Nabeul,Technicien Réseau,"SQL,Kubernetes,Java",46,7314.29821142524
+4.995828745445317,Intermediate,Bizerte,Analyste Données,"React,Machine Learning,Linux",32,3000.7896622285757
+1.5041984850505852,Intermediate,Kef,Ingénieur Logiciel,"Java,Linux,Machine Learning,Python,Kubernetes",31,2725.58610524767
+5.025687639707752,Intermediate,Sfax,Ingénieur Logiciel,"Linux,Python,Docker",33,3831.2370546272778
+3.8824850338883565,Intermediate,Gabes,Chef de Projet,"Kubernetes,Python",30,3420.1222070117224
+7.5671261506473275,Intermediate,Bizerte,Chef de Projet,"Python,SQL,Kubernetes",44,4311.087046020231
+0.5657350864791453,Advanced,Sfax,Chef de Projet,"React,SQL,Docker",30,4012.343621293141
+7.157042403682414,Intermediate,Remote,Data Scientist,"Docker,Linux,Machine Learning,SQL",35,3599.3228150527502
+3.8964300953494475,Advanced,Gabes,Analyste Données,"Machine Learning,Java,SQL,React",36,3519.554800292921
+16.48310638883833,Advanced,Monastir,Analyste Données,"React,Machine Learning",48,6107.660789922316
+2.091780449945556,Advanced,Monastir,Analyste Données,"Machine Learning,Python,React,Kubernetes,Java",41,3561.9840089047934
+5.006818486725115,Advanced,Gabes,Analyste Données,"SQL,Docker,Machine Learning",30,3362.3114933191077
+13.443304877842756,Intermediate,Kef,Chef de Projet,"React,Machine Learning,Docker",36,5093.4794596194915
+0.5407649883263731,Intermediate,Kef,Ingénieur Logiciel,"Linux,Java,SQL,Python",48,2708.4610092209987
+13.841269634193843,Intermediate,Kef,Chef de Projet,"Python,Docker,Kubernetes",42,5198.048502606211
+5.821929417789845,Intermediate,Bizerte,Analyste Données,"Python,Kubernetes",41,3359.3836975359754
+0.3512382514555415,Intermediate,Bizerte,Chef de Projet,"Kubernetes,React",41,3259.644063155766
+1.790262082141199,Advanced,Sousse,Analyste Données,"Machine Learning,Kubernetes,SQL,Linux,Python",42,3583.108135582389
+6.157954975606562,Intermediate,Tunis,Technicien Réseau,"Machine Learning,SQL,Java,React,Linux",43,4431.116126835796
+0.34862963697380656,Intermediate,Gabes,Ingénieur Logiciel,"Python,SQL,Linux",41,2304.201513435601
+4.363408645474819,Beginner,Nabeul,Technicien Réseau,"SQL,Kubernetes,Machine Learning,Java",49,3540.8789201335258
+2.122345657556806,Intermediate,Tunis,Data Scientist,"Machine Learning,Java",41,3671.058251607236
+4.849980952374174,Beginner,Remote,Chef de Projet,"Linux,Machine Learning,React",35,3090.2710210984765
+0.23410619638977423,Advanced,Bizerte,Data Scientist,"Linux,Kubernetes,Machine Learning,Python",39,3332.308577654612
+10.260564224384563,Intermediate,Bizerte,Chef de Projet,"Docker,Machine Learning",49,4817.939503455225
+18.150971875721705,Beginner,Sfax,Technicien Réseau,"Python,SQL,Machine Learning",38,5962.7280080547935
+17.349178322458755,Beginner,Tunis,Analyste Données,"Docker,Kubernetes,Linux",31,5897.882726812128
+6.9245132848061495,Intermediate,Sfax,Analyste Données,"Docker,React",36,4079.975233208043
+0.6968059941690288,Intermediate,Nabeul,Chef de Projet,"SQL,Java",38,3617.2294721937515
